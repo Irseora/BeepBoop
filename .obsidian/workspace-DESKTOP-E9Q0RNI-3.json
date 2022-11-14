@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "65d082956d7fb31d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb6fa4ee823ccd06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20e32e89886e780d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02919a3784beadfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f14a4385c2030284",
+        "type": "tabs",
+        "dimension": 23.80952380952381,
+        "children": [
+          {
+            "id": "aac54f3886af31ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c235125ad959c093",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6d8171cb6f261a24",
+        "type": "tabs",
+        "dimension": 76.19047619047619,
+        "children": [
+          {
+            "id": "20f9c986b114349b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "992a5f8a6b7b3285",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303
+  },
+  "right": {
+    "id": "d228e3f6c2a48fe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "94ef9e399bd6115a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac87e3f4c370446a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf76dcedb997fe6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72290ea6a01f8a0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f31114293204b09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "20e32e89886e780d",
+  "lastOpenFiles": [
+    "022 - Reprezentare Floating Point.md",
+    "Curs 5  - Aritmetica Sistemelor de Calcul.md",
+    "Curs 5 - Logica Digitala.md",
+    "020 - Reprezentarea Datelor.md",
+    "010 - Introducere.md",
+    "021 - Reprezentare Fixed Point.md",
+    "023 - Coduri de Caractere.md",
+    "Tools.md",
+    "Altars.md",
+    "Potions.md"
+  ]
+}

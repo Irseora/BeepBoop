@@ -1,0 +1,52 @@
+- **Celestial Object** = natural occuring physical entity, association, structure in the observable universe
+---
+- **NEBULA**
+	- body of interstellar clouds
+	- nebula = cloud (latin)
+- **GALAXY**
+	- gravitationally bound system of: stars, stellar remnants, interstellar gas, dust, dark matter
+	- galaxias = milky (greek?)
+	- orbiting a centre of mass - ex. supermassive black holes
+- **STAR CLUSTER**
+	- large group of stars, born roughly at the same time
+	- globular clusters (old)
+	- open clusters (young)
+- **PLANETARY SYSTEM**
+	- gravitationally bound non-stellar objects, orbiting a star
+	- Habitable zone: surface liquid water
+- **STAR**
+	- consists of a luminous spheroid of plasma, held together by its own gravity
+	- the Sun: main sequnce star
+	- begining: gravitational collapse of a nebula
+	- mostly Hydrogen + Helium
+	- shines bcs of thermonuclear fusion
+	- end: stellar remnant
+	- supernova explosions
+- **PLANET**
+	- astronomical body orbiting a star (remnant), that is:
+		- massive enough to be rounded by its gravity
+		- not massive enough to cause thermonuclear fusion
+		- cleared its neighbouring region of planetesimals
+	- Types:
+		- Gas Giants: large & low density -> Jupiter, Saturn, Uranus, Neptune
+		- Terrestrial: rocky -> Mercury, Venus, Earth, Mars
+	- Mercury & Venus have no moons
+	- *Sad Story of Pluto*
+		- 1930 - discovered & declared planet
+		- 2006 - IAU formally defined "planet" => pluto dwarf planet
+			- Mike Brown - How I Killed Pluto and Why It Had It Coming
+		- Planet 9 - hypothetical planet in outer region of solar system - Mike Brown & Konstantin Batygin
+- **MOON**
+	- natural satellite: orbits a planet, dwarf planet, small solar system body
+	- *Exomoons* = orbit exoplanets
+- **ASTEROID**
+	- minor planet
+	- low mass, no atmosphere
+	- asteroid belt - torus shaped (main belt)
+	- asteroid mining -> hypothetical exploitation: high cost
+- **COMET**
+	- icy, small body, warms when close to the sun & releases gases
+		- => produces a visible atmosphere = Coma / tail, due to solar radiation & solar wind
+	- Rosetta mission - Comet 67P, organic compounds never seen before in comets + molecular oxygen
+		- only one periodically visible with naked eye
+		- originally from the Kyper belt

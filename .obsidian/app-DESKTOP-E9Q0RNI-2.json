@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "showInlineTitle": false,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "./assets"
+}

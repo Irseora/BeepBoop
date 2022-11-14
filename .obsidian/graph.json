@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:ROSPIN",
+      "color": {
+        "a": 1,
+        "rgb": 15958456
+      }
+    },
+    {
+      "query": "path:\"Fundamentele Programarii\"",
+      "color": {
+        "a": 1,
+        "rgb": 16373392
+      }
+    },
+    {
+      "query": "path:\"Arhitectura Sistemelor de Calcul\"",
+      "color": {
+        "a": 1,
+        "rgb": 14256119
+      }
+    },
+    {
+      "query": "path:Planner",
+      "color": {
+        "a": 1,
+        "rgb": 9290893
+      }
+    },
+    {
+      "query": "HOME",
+      "color": {
+        "a": 1,
+        "rgb": 11728306
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.484375,
+  "repelStrength": 16.7708333333333,
+  "linkStrength": 1,
+  "linkDistance": 270,
+  "scale": 0.05932617187500016,
+  "close": true
+}

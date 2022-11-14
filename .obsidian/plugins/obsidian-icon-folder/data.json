@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": "#ffffff",
+    "recentlyUsedIcons": [
+      "FasCalculator",
+      "FasPenFancy",
+      "FasRuler",
+      "FasPenRuler",
+      "FasComputerMouse"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "HOME.md": "FasHouse",
+  "ROSPIN": "FasShuttleSpace",
+  "Planner": "FasBookAtlas",
+  "Fundamentele Programarii": "FasBuilding",
+  "Arhitectura Sistemelor de Calcul": "FasComputerMouse",
+  "Geometrie": "FasRuler",
+  "Analiza": "FasPenFancy",
+  "Algebra": "FasCalculator"
+}

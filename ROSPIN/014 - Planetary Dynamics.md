@@ -1,0 +1,65 @@
+- **Newton's Law of Gravity**
+	- force between 2 massive bodies: $F = G M_1 M_2 / r^2$
+	- expressing in terms of relative vector r, equation of motion: $d^2 r / d t + \micro r / r^3 = 0$
+	  where $\micro = G(M_1 + M_2)$
+	- shows that orbit of $M_2$ around $M_1$ is an ellipse, with $M_1$ focus
+- **Kepler's Laws**
+	- experimental, based on Tycho Brahe, applicable for planetary motion in solar system
+	- 1st Law: The orbit of a planet is an ellipse, w/ the Sun at one focus
+	- 2nd Law: A line segment joining the planet & the Sun, sweeps out equal areas during equal intervals of time
+	- 3rd Law: The square of the orbital period of a planet is proportional to the cube of the semi-major axis of its orbit
+- **Orbital Elements**
+	- Shape & size of the ellipse:
+		- Eccentricity (e)
+		- Semimajor Axis (a)
+	- Orbital Plane Orientation
+		- Inclination (I)
+		- Longitude of the ascending node($\Omega$)
+	- Argument of periapsis ($\omega$) = orbit orientation in orbit plane
+	- True anomaly (v) = location of secondary body
+	- ![[Pasted image 20221103194249.png]]
+- **Sphere of Influence**
+	- oblate-spheroid region around a celestial body
+	- primary gravitational influence on orbiting object is that body
+	- $r_{SOI} ~= a(m / M) ^{2/5}$
+	- Given 2 large mass objects and a small object between them, which massive object should be use as the origin of the frame of reference? (Eg. Sending a probe from Earth to Mars)
+	  The small object is within which massive object's SOI?
+- **Hill Sphere**
+	- region in which a body dominates the attraction of satellites
+	- a moon has an orbit that lies in a planet's Hill sphere
+	- $r_H ~= a (m/3M) ^{1/3}$
+	- Given a large mass (Sun) and a small mass (Earth), can a tiny mass (Moon) find a stable orbit around the small mass?
+	  If the tiny mass goes outside the Hill Sphere of the small mass, no
+- **Lagrange Points**
+	- points near 2 large orbiting bodies, where the gravitational force of the 2 large bodies & centrifugal force balance each other
+	- small objects placed in orbit at a Lagrange point are in equilibrium in atleast 2 directions relative to the centre of mass of the large bodies => *excellent location for satellites*
+	- Sun-Earth L1: SOHO, DSCOVR, LPF
+	- Sun-Earth L2: Herschel, Planck, Gaia, JWST, Euclid
+- **Orbit Classification**
+	- *Altitude*
+		- Low Earth Orbit (LEO): 200 - 1600 km
+		- Medium Earth Orbit (MEO): 1600 - 35786 km
+		- Geostationary Orbit (GEO): 35786 km
+		- High Earth Orbit (HEO): > 35786 km
+	- *Inclination*
+		- Prograde/Retrograde: > / < 90 degrees
+		- Polar: 90 degrees
+		- Equatorial: 0 degrees
+	- *Eccentricity*
+		- Circular
+		- Elliptic
+		- Parabolic
+		- Hyperbolic
+		- Radial
+	- *Synchronicity*
+		- *Geostationary Orbit*: circular equatorial orbit w/ period of one sidereal day
+			- sidereal day: 23 hours, 56 m, 4.1 s => altitude ~ 35786 km
+			- from any point on Earth, a satellite in such an orbit is fixed at a given location
+			- Uses:
+				- Telecommunications: antennas on Earth will point to fixed locations in space to transmit/receive data
+				- Meteorology: same Earth area can be observer continuously
+		- *Sun-synchronous Orbit*: constant angle between orbital plane & mean Sun direction
+			- nearly polar orbit around planet, in which the satellite passes over any given point of the planet's surface, at the same local mean solar time
+			- Uses:
+				- Earth observation (optical/spectrometers): same illumination conditions at specific points on ground in different passes (=> comparable images)
+				- Earth Observation (radar): maximum efficiency solar panels, bcs. the eclipse time is minimum (short intervals during limited time of the year)

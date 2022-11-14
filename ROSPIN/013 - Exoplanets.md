@@ -1,0 +1,44 @@
+- **Exoplanets** = planets outside solar system
+- first detection
+	- 2 planets orbiting pulsar PSR 1257+12
+	- Aleksander Wolszczan & Dale Frail - 1992
+- first detection orbiting a main sequence star
+	- orbiting 51 Pegasi b
+	- Michel Mayor & Didier Queloz 1995 => Nobel Prize in Physics 2019
+- 5197 confirmed exoplanets in 3833 planetary systems
+	- 840 systems contain > 1 planet
+- **Methods for detecting**
+	- **Radial velocity**
+		- watching for wobble
+		- orbiting stars cause stars to wobble => variation in speed of star moving towards or away from Earth
+		- Doppler spectroscopy
+			- everything moves in waves
+			- *Doppler efect*: 
+				- higher pitch while approaching, lower pitch while leaving 
+				- *Redshift*: to determine if object is moving away or towards us
+					- compacter waves = blue
+					- stretched out waves = red
+		- HARPS spectometer - La Silla Observatory, Chile
+		- HIRES spectometer - Keck telescopes, Hawaii
+	- **Transit photometry** 
+		- *Light chart*: planet passing directly in front of star => blocks some light
+		- radius of planet can be measured from depth of transit
+		- light that passes through planet => atmosphere composition
+		- Kepler mission, COROT, TESS
+	- **Direct Imaging**
+		- taking direct pictures of the exoplanetary system
+		- use various techniques to reduce host stars glare
+		- large planets (>= Jupiter) and far from their host star
+		- Gemini Planet Imager, VLT-SPHERE, Subaru Telescope
+		- very new
+	- **Gravitational Microlensing**
+		- light from a distant star is bent &focused by gravity as a planet passes between the star & Earth
+		- like a magnifying glass
+		- rare events, cannot be repeated
+		- OGLE
+	- **Astrometry** 
+		- orbit of a planet causes a star to wobble in space in relation to nearby stars
+		- requires extremely precise optics
+		- very hard to do from Earth's surface bcs. of armosphere
+		- usually combined with radial velocity
+- **Exoplanet Characterization**![[Pasted image 20221103193258.png]]

@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "65d082956d7fb31d",
+    "type": "split",
+    "children": [
+      {
+        "id": "57f9362c22137157",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0e6fa8c21318af3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arhitectura Sistemelor de Calcul/032 - Algebra Booleeana.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02919a3784beadfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f14a4385c2030284",
+        "type": "tabs",
+        "dimension": 25.86538461538462,
+        "children": [
+          {
+            "id": "aac54f3886af31ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94735b1e85f7bfbd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6d8171cb6f261a24",
+        "type": "tabs",
+        "dimension": 74.13461538461539,
+        "children": [
+          {
+            "id": "20f9c986b114349b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "992a5f8a6b7b3285",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d228e3f6c2a48fe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "94ef9e399bd6115a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac87e3f4c370446a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arhitectura Sistemelor de Calcul/032 - Algebra Booleeana.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf76dcedb997fe6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arhitectura Sistemelor de Calcul/032 - Algebra Booleeana.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72290ea6a01f8a0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f31114293204b09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Arhitectura Sistemelor de Calcul/032 - Algebra Booleeana.md"
+              }
+            }
+          },
+          {
+            "id": "a980bb8c14e2ba03",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "f0e6fa8c21318af3",
+  "lastOpenFiles": [
+    "Arhitectura Sistemelor de Calcul/030 - Logica Digitala.md",
+    "Arhitectura Sistemelor de Calcul/031 - Masini cu Numar Finit de Stari.md",
+    "Arhitectura Sistemelor de Calcul/032 - Algebra Booleeana.md",
+    "Arhitectura Sistemelor de Calcul/034 - Forma Produs de Sume.md",
+    "Arhitectura Sistemelor de Calcul/033 - Forma Suma de Produse.md",
+    "Arhitectura Sistemelor de Calcul/035 - Componente Digitale.md",
+    "HOME.md",
+    "Planner/Fundamente - Set 1.md",
+    "Planner/Fundamente - Set 2 - Secvente.md",
+    "ROSPIN/040 - Space Sustainability.md"
+  ]
+}
