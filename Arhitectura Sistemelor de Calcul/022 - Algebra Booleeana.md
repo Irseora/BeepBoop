@@ -14,4 +14,5 @@
 
 ##### Definitii
 - **Principiul dualitatii** = duala unei functii Booleene: AND -> OR, OR -> AND, 1 -> 0, 0 -> 1
-- **Legile lui DeMorgan**: $A+B = \bar {\bar {A+B}} = \bar {\bar A \bar B}$
+- **[[001 - Legile de Morgan|Legile lui de Morgan]]** => $A+B = \overline{\overline{A+B}} = \overline{\bar A \bar B}$
+- 

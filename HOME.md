@@ -9,10 +9,12 @@
 - [ ] [[Fundamente - Set 2 - Secvente]] (Dec.1)
 - [ ] ArhSis - Program Conversii (Dec.1)
 - [ ] ArhSis - Binary Clock (Dec.2)
-- [ ] ArhSis - Automat Vanzari
-- [ ] ArhSis - Hex Viewer
+- [ ] ArhSis - Automat Vanzari (Dec.22)
+- [ ] ArhSis - Hex Viewer (Dec.22)
 - [ ] ROSPIN - Lesson 3
-- [ ] ROSPIN - Lesson 4 + Quiz
+- [ ] ROSPIN - Lesson 4 + Quiz (Nov.18)
+- [ ] ArhSis - Logica Digitala (Nov.22)
+- [ ] Fundamente - Approximate Search
 ``````
 
 ``````col-md

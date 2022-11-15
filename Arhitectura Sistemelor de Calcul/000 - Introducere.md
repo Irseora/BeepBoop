@@ -19,14 +19,20 @@
 	- J. W. Mauchly & J. P. Eckert - University of Pensilvania
 	- primul calc. electronic, digital, capabil de reprogramat
 
+```````col
+``````col-md
 ### Modelul Von Neumann
 ![[Pasted image 20221107015729.png]]
+``````
 
+``````col-md
 ### Modelul System Bus
 - *Magistrala sistem* = cale de comunicare intre componente
-- imbunatatire a modelului Von Neumann
+- imbunatatire Von Neumann
 
 ![[Pasted image 20221107015750.png]]
+``````
+```````
 
 ### Niveluri ale Masinilor de Calcul
 - sus -> baza: devin mai putin abstracte, structura interna devine vizibila
@@ -37,7 +43,12 @@
 
 ### Legea lui Gordon Moore
 > Puterea de calcul (nr. tranzistori) se dubleaza la fiecare 18 luni, iar pretul ramane acelasi.
-
 - fondatorul Intel
 - trebuie tinut cont in planificarea proiectelor de anvergura
 - peste cati ani vom avea procesoare de n ori mai puternice decat azi? $log_2 \ n \times 1.5$
+
+---
+
+### Capitole
+1. [[010 - Reprezentarea Datelor]]
+2. [[020 - Logica Digitala]]

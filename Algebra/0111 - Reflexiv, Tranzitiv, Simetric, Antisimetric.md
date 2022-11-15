@@ -1,0 +1,4 @@
+- **Reflexiva**: $a \ \rho \ a, \hspace{3mm} \forall a \in A$
+- **Tranzitiva**: $a \ \rho \ b \ \text{ si } \ b \ \rho \ c \Rightarrow a \ \rho \ c$
+- **Simetrica**: $a \ \rho \ b \Rightarrow b \ \rho \ a$
+- **Antisimetrica**: $a \ \rho \ b \ \text{ si } \ b \ \rho \ a \Rightarrow a = b$

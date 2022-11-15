@@ -1,0 +1,3 @@
+- **Asociativitate**: *$(x \circ y) \circ z = x \circ (y \circ z)$*
+- **Distributivitate**: *$x \circ (y * z) = (x \circ y) * (x \circ z)$*
+- **Comutativitate**: *$x \circ y = y \circ x$*

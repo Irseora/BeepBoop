@@ -41,11 +41,25 @@
         "a": 1,
         "rgb": 11728306
       }
+    },
+    {
+      "query": "path:Algebra",
+      "color": {
+        "a": 1,
+        "rgb": 8942828
+      }
+    },
+    {
+      "query": "path:Logica",
+      "color": {
+        "a": 1,
+        "rgb": 7005164
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
@@ -53,6 +67,6 @@
   "repelStrength": 16.7708333333333,
   "linkStrength": 1,
   "linkDistance": 270,
-  "scale": 0.05932617187500016,
+  "scale": 0.11660891579457398,
   "close": true
 }

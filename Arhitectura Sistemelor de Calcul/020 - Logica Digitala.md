@@ -1,7 +1,7 @@
 ### Definitii
 - **Logica combinationala** = decizii doar pe baza input-ului
 - **Logica secventiala** = decizii pe baza input-ului & a unor date mai vechi
-- **[[031 - Masini cu Numar Finit de Stari|Masini cu numar finit de stari]]** = output-uri in functia input-ului & a starii interne
+- **[[021 - Masini cu Numar Finit de Stari|Masini cu numar finit de stari]]** = output-uri in functia input-ului & a starii interne
   (ex. automat pt. vanzari)
 - **Unitate combinationala logica** = traduce multimea input => multime output, conform uneia / mai multor functii
 	- ![[Combinational Logic Unit.png]]
@@ -74,16 +74,16 @@
 ``````
 ```````
 
-### [[032 - Algebra Booleeana|Algebra Booleeana]]
-![[032 - Algebra Booleeana#Definitii]]
+### [[022 - Algebra Booleeana|Algebra Booleeana]]
+![[022 - Algebra Booleeana#Definitii]]
 
 
-### [[033 - Forma Suma de Produse|Forma Suma de Produse]] 
-![[033 - Forma Suma de Produse#Definitie]]
+### [[023 - Forma Suma de Produse|Forma Suma de Produse]] 
+![[023 - Forma Suma de Produse#Definitie]]
 
-### [[034 - Forma Produs de Sume|Forma Produs de Sume]]
-![[034 - Forma Produs de Sume#Definitie]]
+### [[024 - Forma Produs de Sume|Forma Produs de Sume]]
+![[024 - Forma Produs de Sume#Definitie]]
 
 
-### [[035 - Componente Digitale|Componente Digitale]]
-![[035 - Componente Digitale#Definitie]]
+### [[025 - Componente Digitale|Componente Digitale]]
+![[025 - Componente Digitale#Definitie]]

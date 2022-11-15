@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "57f9362c22137157",
+        "id": "bd15ea36cdeab93a",
         "type": "tabs",
         "children": [
           {
-            "id": "f0e6fa8c21318af3",
+            "id": "1e63b731bf0ee295",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5dc7374c712b6002",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arhitectura Sistemelor de Calcul/032 - Algebra Booleeana.md",
-                "mode": "preview",
+                "file": "Logica/010 - Multimi.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,9 +66,11 @@
           {
             "id": "94735b1e85f7bfbd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
         ],
@@ -102,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arhitectura Sistemelor de Calcul/032 - Algebra Booleeana.md",
+                "file": "Logica/010 - Multimi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arhitectura Sistemelor de Calcul/032 - Algebra Booleeana.md",
+                "file": "Logica/010 - Multimi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arhitectura Sistemelor de Calcul/032 - Algebra Booleeana.md"
+                "file": "Logica/010 - Multimi.md"
               }
             }
           },
@@ -162,17 +179,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "f0e6fa8c21318af3",
+  "active": "5dc7374c712b6002",
   "lastOpenFiles": [
-    "Arhitectura Sistemelor de Calcul/030 - Logica Digitala.md",
-    "Arhitectura Sistemelor de Calcul/031 - Masini cu Numar Finit de Stari.md",
-    "Arhitectura Sistemelor de Calcul/032 - Algebra Booleeana.md",
-    "Arhitectura Sistemelor de Calcul/034 - Forma Produs de Sume.md",
-    "Arhitectura Sistemelor de Calcul/033 - Forma Suma de Produse.md",
-    "Arhitectura Sistemelor de Calcul/035 - Componente Digitale.md",
     "HOME.md",
-    "Planner/Fundamente - Set 1.md",
-    "Planner/Fundamente - Set 2 - Secvente.md",
-    "ROSPIN/040 - Space Sustainability.md"
+    "Logica/004 - Implicatie.md",
+    "Logica/005 - Echivalenta.md",
+    "Logica/010 - Multimi.md",
+    "Logica/002 - Conjunctia (AND).md",
+    "Logica/003 - Disjunctie (OR).md",
+    "Logica/001 - Legile de Morgan.md",
+    "Fundamentele Programarii/C Sharp.md",
+    "Fundamentele Programarii/Cautare Binara.md",
+    "Fundamentele Programarii/Cautare Lineara.md"
   ]
 }

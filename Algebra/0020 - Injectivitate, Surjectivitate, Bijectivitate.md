@@ -1,0 +1,7 @@
+- **Injectivitate**: $f:A \rightarrow B, \ \forall x_1, x_2 \in A$
+	- *$x_1 \ne x_2 \Rightarrow f(x_1) \ne f(x_2)$* sau
+	- *$f(x_1) = f(x_2) \Rightarrow x_1 = x_2$*
+- **Surjectivitate**: $f:A \rightarrow B$
+	- *$\exists y \in B \text{ a.i. } f(x)=y$* sau
+	- *$Im \ f = f(A) = B$*
+- **Bijectivitate**: Injectiv + Surjectiv
