@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logica/010 - Multimi.md",
+                "file": "Logica/020 - Relatii.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logica/010 - Multimi.md",
+                "file": "Logica/020 - Relatii.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logica/010 - Multimi.md",
+                "file": "Logica/020 - Relatii.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logica/010 - Multimi.md"
+                "file": "Logica/020 - Relatii.md"
               }
             }
           },
@@ -181,15 +181,15 @@
   },
   "active": "5dc7374c712b6002",
   "lastOpenFiles": [
-    "HOME.md",
-    "Logica/004 - Implicatie.md",
+    "Algebra/0111 - Reflexiv, Tranzitiv, Simetric, Antisimetric.md",
+    "Logica/020 - Relatii.md",
     "Logica/005 - Echivalenta.md",
     "Logica/010 - Multimi.md",
+    "Algebra/0110 - Relatii Binare.md",
+    "Logica/000 - Introducere.md",
     "Logica/002 - Conjunctia (AND).md",
-    "Logica/003 - Disjunctie (OR).md",
     "Logica/001 - Legile de Morgan.md",
-    "Fundamentele Programarii/C Sharp.md",
-    "Fundamentele Programarii/Cautare Binara.md",
-    "Fundamentele Programarii/Cautare Lineara.md"
+    "Logica/003 - Disjunctie (OR).md",
+    "Logica/004 - Implicatie.md"
   ]
 }
