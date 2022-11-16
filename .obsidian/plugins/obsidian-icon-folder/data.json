@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "Fas2",
       "Fas1",
       "Fas0",
       "FasHashtag",
-      "FasMeteor",
-      "Fas6"
+      "FasMeteor"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -71,5 +71,6 @@
   "Logica/004 - Implicatie.md": "Fas0",
   "Logica/005 - Echivalenta.md": "Fas0",
   "Logica/010 - Multimi.md": "Fas1",
-  "Logica/000 - Introducere.md": "Fas0"
+  "Logica/000 - Introducere.md": "Fas0",
+  "Logica/020 - Relatii.md": "Fas2"
 }

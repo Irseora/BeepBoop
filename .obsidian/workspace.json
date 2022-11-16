@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logica/020 - Relatii.md",
+                "file": "HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logica/020 - Relatii.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logica/020 - Relatii.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logica/020 - Relatii.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "5dc7374c712b6002",
   "lastOpenFiles": [
-    "Algebra/0111 - Reflexiv, Tranzitiv, Simetric, Antisimetric.md",
     "Logica/020 - Relatii.md",
+    "Algebra/0111 - Reflexiv, Tranzitiv, Simetric, Antisimetric.md",
     "Logica/005 - Echivalenta.md",
     "Logica/010 - Multimi.md",
     "Algebra/0110 - Relatii Binare.md",

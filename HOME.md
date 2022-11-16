@@ -14,6 +14,7 @@
 - [ ] ROSPIN - Lesson 3
 - [ ] ROSPIN - Lesson 4 + Quiz (Nov.18)
 - [ ] ArhSis - Logica Digitala (Nov.22)
+- [ ] ROSPIN - Lesson 5 + Quiz ()
 - [ ] Fundamente - Approximate Search
 ``````
 
