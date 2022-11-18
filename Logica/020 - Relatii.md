@@ -1,4 +1,4 @@
-- **Relatie binara** = $\forall \rho \subset A \times B$
+- **[[0110 - Relatii Binare|Relatie Binara]]** = $\forall \rho \subset A \times B$
 	- $(x,y) \in \rho \iff x \ \rho \ y$
 - Daca $A = B \Rightarrow \rho \subset A^2$
 	- ![[0111 - Reflexiv, Tranzitiv, Simetric, Antisimetric]]

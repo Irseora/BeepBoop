@@ -4,7 +4,6 @@
 ```````col
 ``````col-md
 #### 🍁 To-Do
-- [ ] Algebra - Tema Sem 5 (Nov.17)
 - [ ] [[Fundamente - Set 1]] (Nov.31)
 - [ ] [[Fundamente - Set 2 - Secvente]] (Dec.1)
 - [ ] ArhSis - Program Conversii (Dec.1)

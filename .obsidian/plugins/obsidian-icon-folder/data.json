@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "FasBook",
       "Fas2",
       "Fas1",
       "Fas0",
-      "FasHashtag",
-      "FasMeteor"
+      "FasHashtag"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -72,5 +72,6 @@
   "Logica/005 - Echivalenta.md": "Fas0",
   "Logica/010 - Multimi.md": "Fas1",
   "Logica/000 - Introducere.md": "Fas0",
-  "Logica/020 - Relatii.md": "Fas2"
+  "Logica/020 - Relatii.md": "Fas2",
+  "Algebra/Cheat Sheet.md": "FasBook"
 }
