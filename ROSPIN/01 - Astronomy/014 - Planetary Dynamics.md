@@ -36,8 +36,8 @@
 	- Sun-Earth L1: SOHO, DSCOVR, LPF
 	- Sun-Earth L2: Herschel, Planck, Gaia, JWST, Euclid
 - **Orbit Classification**
-	- *Altitude*
-		- Low Earth Orbit (LEO): 200 - 1600 km
+	- *Altitude* ^2675c3
+		- Low Earth Orbit (LEO): 200 - 1600 km ^09dadc
 		- Medium Earth Orbit (MEO): 1600 - 35786 km
 		- Geostationary Orbit (GEO): 35786 km
 		- High Earth Orbit (HEO): > 35786 km

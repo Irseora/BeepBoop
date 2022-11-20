@@ -1,2 +1,0 @@
-### Multimi. Relatii. Functii
-$$
