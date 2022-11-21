@@ -11,8 +11,12 @@
             "id": "d0543f0ffda3ebf3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HOME.md"
+              }
             }
           },
           {
@@ -172,15 +180,15 @@
   },
   "active": "d0543f0ffda3ebf3",
   "lastOpenFiles": [
+    "Planner/Fundamente - Set 1.md",
+    "HOME.md",
     "AAA.md",
     "ROSPIN/04 - Sustainability/040 - Space Sustainability.md",
     "GGG.md",
-    "HOME.md",
     "ROSPIN/04 - Sustainability/041 - Orbital Objects & Space Debris.md",
     "ROSPIN/04 - Sustainability/042 - SSA & SST Services.md",
     "ROSPIN/02 - The Space Sector/023 - Present.md",
     "ROSPIN/02 - The Space Sector/022 - Past.md",
-    "ROSPIN/02 - The Space Sector/020 - Past, Present & Future of the Space Sector.md",
-    "ROSPIN/02 - The Space Sector/021 - Space as a Sector.md"
+    "ROSPIN/02 - The Space Sector/020 - Past, Present & Future of the Space Sector.md"
   ]
 }
