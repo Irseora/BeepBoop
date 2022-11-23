@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "Fas5",
       "Fas4",
       "FasMeteor",
       "FasBook",
-      "Fas2",
-      "Fas1"
+      "Fas2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,7 +50,6 @@
   "Arhitectura Sistemelor de Calcul/024 - Forma Produs de Sume.md": "Fas2",
   "Arhitectura Sistemelor de Calcul/025 - Componente Digitale.md": "Fas2",
   "ROSPIN/030 - Space Education.md": "Fas3",
-  "ROSPIN/050 - Space Law.md": "Fas5",
   "ROSPIN/060 - Humans in Space.md": "Fas6",
   "Fundamentele Programarii/C Sharp.md": "FasHashtag",
   "Logica/002 - Conjunctia (AND).md": "Fas0",
@@ -77,5 +76,10 @@
   "ROSPIN/Live Sessions": "FasMeteor",
   "ROSPIN/04 - Sustainability/040 - Space Sustainability.md": "Fas4",
   "ROSPIN/04 - Sustainability/041 - Orbital Objects & Space Debris.md": "Fas4",
-  "ROSPIN/04 - Sustainability/042 - SSA & SST Services.md": "Fas4"
+  "ROSPIN/04 - Sustainability/042 - SSA & SST Services.md": "Fas4",
+  "ROSPIN/04 - Sustainability": "Fas4",
+  "ROSPIN/05 - Space Law": "Fas5",
+  "ROSPIN/05 - Space Law/050 - Space Law.md": "Fas5",
+  "ROSPIN/05 - Space Law/051 - What is Space.md": "Fas5",
+  "ROSPIN/05 - Space Law/052 - International Space Law.md": "Fas5"
 }

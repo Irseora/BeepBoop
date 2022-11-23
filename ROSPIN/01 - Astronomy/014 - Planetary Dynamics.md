@@ -52,7 +52,7 @@
 		- Hyperbolic
 		- Radial
 	- *Synchronicity*
-		- *Geostationary Orbit*: circular equatorial orbit w/ period of one sidereal day
+		- *Geostationary Orbit*: circular equatorial orbit w/ period of one sidereal day ^bf6eef
 			- sidereal day: 23 hours, 56 m, 4.1 s => altitude ~ 35786 km
 			- from any point on Earth, a satellite in such an orbit is fixed at a given location
 			- Uses:
