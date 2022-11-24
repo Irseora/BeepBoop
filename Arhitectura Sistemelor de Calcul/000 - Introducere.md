@@ -22,7 +22,7 @@
 ```````col
 ``````col-md
 ### Modelul Von Neumann
-![[Pasted image 20221107015729.png]]
+![[Von Neuman.png]]
 ``````
 
 ``````col-md
@@ -30,7 +30,7 @@
 - *Magistrala sistem* = cale de comunicare intre componente
 - imbunatatire Von Neumann
 
-![[Pasted image 20221107015750.png]]
+![[System Bus.png]]
 ``````
 ```````
 
@@ -39,7 +39,7 @@
 - **Compatibilitate "in sus"** = calc. mai puternice pot rula soft. facut pt. calc. mai slabe
 - **Programe portabile** = prog. in limbaje inalte, pt ca pot fi recompilate
 
-![[Pasted image 20221107015900.png]]
+![[Nivelurile Masinilor de Calcul.png]]
 
 ### Legea lui Gordon Moore
 > Puterea de calcul (nr. tranzistori) se dubleaza la fiecare 18 luni, iar pretul ramane acelasi.
@@ -52,3 +52,4 @@
 ### Capitole
 1. [[010 - Reprezentarea Datelor]]
 2. [[020 - Logica Digitala]]
+3. [[030 - Arhitectura Setului de Instructiuni]]
