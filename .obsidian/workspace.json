@@ -20,8 +20,36 @@
               },
               "pinned": true
             }
+<<<<<<< Updated upstream
+=======
+          },
+          {
+            "id": "a6ce759be7c22f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentele Programarii/Vectori.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a57c5e4ebe79e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheets/Algebra - Teorie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+>>>>>>> Stashed changes
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "CheatSheets/Algebra - Teorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "CheatSheets/Algebra - Teorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "CheatSheets/Algebra - Teorie.md"
               }
             }
           },
@@ -166,17 +194,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "0c7bcba057b6e059",
+  "active": "9a57c5e4ebe79e40",
   "lastOpenFiles": [
-    "Planner/ArhSis - BigInt.md",
+    "Fundamentele Programarii/Vectori.md",
+    "Fundamentele Programarii/Random.md",
+    "Fundamentele Programarii/LRSNO.md",
+    "Fundamentele Programarii/Cautare Binara.md",
+    "Fundamentele Programarii/C Sharp.md",
+    "Fundamentele Programarii/Vector de Frecventa.md",
     "HOME.md",
-    "Arhitectura Sistemelor de Calcul/03 - ASI/031 - ARC.md",
-    "Arhitectura Sistemelor de Calcul/03 - ASI/030 - Arhitectura Setului de Instructiuni.md",
-    "Arhitectura Sistemelor de Calcul/000 - Introducere.md",
-    "Arhitectura Sistemelor de Calcul/Pasted image 20221107015729.png.md",
-    "Arhitectura Sistemelor de Calcul/assets/Pasted image 20221107032321.png",
-    "Arhitectura Sistemelor de Calcul/assets/Pasted image 20221107032054.png",
-    "Arhitectura Sistemelor de Calcul/assets/Unicode.png",
-    "Arhitectura Sistemelor de Calcul/assets/Pasted image 20221107031432.png"
+    "Fundamentele Programarii/Big Integer.md",
+    "Algebra/0000 - Introducere.md",
+    "Algebra/0110 - Relatii Binare.md"
   ]
 }

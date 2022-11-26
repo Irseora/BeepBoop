@@ -39,7 +39,4 @@ static void PrintArray(int[] v)
 
 ###
 - [[LRSNO]]
-- [[Cautare Lineara]]
 - [[Cautare Binara]]
-- [[Vector de Frecventa]]
-- 

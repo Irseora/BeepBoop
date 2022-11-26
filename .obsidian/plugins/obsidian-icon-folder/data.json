@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
-      "FasBoxesStacked",
-      "FasMagnifyingGlass",
-      "Fas6",
-      "Fas5",
-      "Fas4"
+      "FasPaperclip",
+      "FasGripLines",
+      "FasAtom",
+      "FasBuildingColumns",
+      "Fas3"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,16 +37,10 @@
   "Algebra/0111 - Reflexiv, Tranzitiv, Simetric, Antisimetric.md": "Fas1",
   "Algebra/0120 - Relatii Functionale.md": "Fas1",
   "Algebra/0130 - Relatii de Echivalenta.md": "Fas1",
-  "Logica/001 - Legile de Morgan.md": "Fas0",
   "Arhitectura Sistemelor de Calcul/000 - Introducere.md": "Fas0",
   "ROSPIN/030 - Space Education.md": "Fas3",
   "Fundamentele Programarii/C Sharp.md": "FasHashtag",
-  "Logica/002 - Conjunctia (AND).md": "Fas0",
-  "Logica/003 - Disjunctie (OR).md": "Fas0",
-  "Logica/004 - Implicatie.md": "Fas0",
-  "Logica/005 - Echivalenta.md": "Fas0",
   "Logica/010 - Multimi.md": "Fas1",
-  "Logica/000 - Introducere.md": "Fas0",
   "Logica/020 - Relatii.md": "Fas2",
   "ROSPIN/01 - Astronomy/010 - Intro to Astronomy.md": "Fas1",
   "ROSPIN/01 - Astronomy/011 - History of Astronomy.md": "Fas1",
@@ -87,5 +81,21 @@
   "Arhitectura Sistemelor de Calcul/02 - Logica Digitala/025 - Componente Digitale.md": "Fas2",
   "Fundamentele Programarii/Cautare Binara.md": "FasMagnifyingGlass",
   "Fundamentele Programarii/Vectori.md": "FasBoxesStacked",
+<<<<<<< Updated upstream
   "ROSPIN/06 - Humans in Space/063 - Maintaining Life in Space.md": "Fas6"
+=======
+  "Arhitectura Sistemelor de Calcul/01 - Reprezentarea Datelor": "Fas1",
+  "Arhitectura Sistemelor de Calcul/02 - Logica Digitala": "Fas2",
+  "Arhitectura Sistemelor de Calcul/03 - ASI": "Fas3",
+  "Logica/00 - Intro/000 - Introducere.md": "Fas0",
+  "Logica/00 - Intro/001 - Legile de Morgan.md": "Fas0",
+  "Logica/00 - Intro/002 - Conjunctia (AND).md": "Fas0",
+  "Logica/00 - Intro/003 - Disjunctie (OR).md": "Fas0",
+  "Logica/00 - Intro/004 - Implicatie.md": "Fas0",
+  "Logica/00 - Intro/005 - Echivalenta.md": "Fas0",
+  "Fundamentele Programarii/Big Integer.md": "FasBuildingColumns",
+  "Fundamentele Programarii/Random.md": "FasAtom",
+  "Fundamentele Programarii/LRSNO.md": "FasGripLines",
+  "CheatSheets": "FasPaperclip"
+>>>>>>> Stashed changes
 }

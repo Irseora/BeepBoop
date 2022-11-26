@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showInlineTitle": false,
   "livePreview": true,
   "defaultViewMode": "preview",
@@ -10,7 +10,7 @@
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
+    "margin": "2",
+    "downscalePercent": 80
   }
 }
