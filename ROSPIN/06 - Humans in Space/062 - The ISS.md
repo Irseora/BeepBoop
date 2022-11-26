@@ -58,7 +58,6 @@
 	- Earth <-> LEO
 - Soyuz
 	- 3 astronauts
-	- $86 / seat
 - => Commercial Crew
 	- ==pic==
 
