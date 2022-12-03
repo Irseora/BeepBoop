@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "CheatSheets/Algebra - Teorie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "CheatSheets/Algebra - Teorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "CheatSheets/Algebra - Teorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "CheatSheets/Algebra - Teorie.md"
               }
             }
           }
@@ -136,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a9b0d8ec45844bef",
+  "active": "44c52d7d7ae1d4d0",
   "lastOpenFiles": [
+    "HOME.md",
     "Fundamentele Programarii/Curs - 29.11.md"
   ]
 }
