@@ -1,6 +1,6 @@
 #### Tasks
 - [ ] Tests
-- [ ] Classes & multiple source files 
+- [x] Classes & multiple source files 
 
 ##### Precizari
 - Toate aceste probleme se vor rezolva fara a folosi vectori/tablouri.
