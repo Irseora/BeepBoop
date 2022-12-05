@@ -1,6 +1,6 @@
 ### Multimi
 $(A \cup B) \cap C = (A \cap B) \cup (A \cap C) \hspace{1cm} \text{Complementara lui X fata de E: } E \ \backslash \ X = C_E (X) = \overline X$
-$\text{Legile lui de Morgan: } \overline{X \cup Y} = \overline X \cap \overline Y, \hspace{5mm} \overline{X \cap Y} = \overline X \cup \overline Y \hspace{1cm}$
+$\text{Legile lui de Morgan: } \overline{X \cup Y} = \overline X \cap \overline Y, \hspace{5mm} \overline{X \cap Y} = \overline X \cup \overline Y \hspace{1cm} \text{Multimea suport: } E$
 
 ### Relatii Binare
 $\text{Relatie binara: un sis. ordonat } \rho = (A, B, R) \hspace{1cm} A: \text{domeniu}, B: \text{codomeniu}, R: \text{grafic}$
@@ -32,9 +32,21 @@ $\text{Nr. functiilor } A \rightarrow B: |B|^{|A|} \hspace{1cm} \text{Nr. functi
 $\text{Relatie de echivalenta: } (R)+(T)+(S) \hspace{1cm} \text{Multimea tuturor rel. de echiv.: } E(A)$
 $\text{Clasa de echivalenta a lui a: } \rho<a> = \hat a = \overline a = \tilde{a} = \{x \in A \ | \ a \ rho \ x \} \hspace{0.5cm} \text{Reprezentant al clasei: a}$
 $a \in \rho<a>, \ \forall a \in A \hspace{1cm} \bigcup\limits _{a \in A} \rho<a> = A \hspace{1cm} a,b \in A, \ \rho<a> = \rho<b> \iff a \ \rho \ b$
-$a,b \in A, \ sau \rho<a> = \rho<b> \ \text{ sau } \ \rho<a> \cap \rho<b> = \emptyset$
+$a,b \in A, \ \text{ sau } \rho<a> = \rho<b> \ \text{ sau } \ \rho<a> \cap \rho<b> = \emptyset$
 $\text{Multimea factor/cat: } A|\rho \hspace{1cm} \text{Proiectia/surjectia canonica: } A_{\rho}:A \rightarrow a|\rho, \ \ \ A_{\rho}(a) = \rho<a>$
 $\text{Partitie: } \pi \in \mathcal{P}''(A), \ \text{ daca } B_1, B_2 \in \pi, \ \ B_1 \cap B_2 = \emptyset \Rightarrow B_1 = B_2 \ \text{ si } \ \bigcup\limits _{B \in \pi} B_i = A$
-$\hspace{1.8cm} \mathcal{P}(A) = \{X \ | \ X \subseteq A\} \hspace{1cm} \mathcal{P}'' = \mathcal{P} \backslash \emptyset \hspace{1cm} a \ \rho_{\pi} \ b \iff \exists B \in \pi \text{ a.i. } a,b \in B \hspace{1cm} A|\rho_{\pi} = \pi$
+$\hspace{1.8cm} \mathcal{P}(A) = \{X \ | \ X \subseteq A\} \hspace{1cm} \mathcal{P}'' = \mathcal{P} \backslash \{\emptyset\} \hspace{1cm} a \ \rho_{\pi} \ b \iff \exists B \in \pi \text{ a.i. } a,b \in B \hspace{1cm} A|\rho_{\pi} = \pi$
 $\text{Sistem de reprezentanti: familia de elemente } \{a_i \ | \ i \in I\} \subseteq A,$
 $\hspace{5cm} \text{ daca } \forall i,j \in I, \ i \ne j \Rightarrow a_i \ \overline \rho \ a_j \ \text{ si } \ \forall x \in A, \ \exists i \in I \text{ a.i. } \ x \ \rho \ a$
+
+---
+
+### Multimi ordonate. Latici
+$\text{Relatie de ordine: } (R) + (T) + (A) \hspace{1cm} \text{Not.: } (A, \le) \hspace{1cm} \text{Multime ordonata: } A$
+$\text{Multime total ordonata / lant: } a \le b \text{ sau } b \le a , \ \ \forall a,b \in A$
+$\text{Cel mai mic element: } \ \ \alpha \le x, \ \ \forall x \in A \ \ \rightarrow \ \ \text{Minorant / margine inferioara: } a \in A, \ \ a \le x, \ \ \forall x \in B$
+$\hspace{8.2 cm} \rightarrow \ \ \text{Margine inferioara exacta: cel mai mare minorant}$
+$\text{Cel mai mare element: } x \le \alpha, \ \ \forall x \in A \ \ \rightarrow \ \ \text{Majorant / margine superioara: } a \in A, \ \ x \le a, \ \ \forall x \in B$
+$\hspace{8.3 cm} \rightarrow \ \ \text{Margine superioara exacta: cel mai mic majorant}$
+$\text{Cel mai mic element: } 0 \hspace{1cm} \text{Cel mai mare element: } 1$
+$inf B = a \Leftrightarrow \begin{cases} a \le x, & \forall x \in B \\ \alpha \le x, & \forall x \in B \ \Rightarrow \ \alpha \le a \end{cases} \hspace{2cm} sup B = a \Leftrightarrow \begin{cases}  \end{cases}$
