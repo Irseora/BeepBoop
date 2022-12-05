@@ -41,4 +41,6 @@
 		- requires extremely precise optics
 		- very hard to do from Earth's surface bcs. of armosphere
 		- usually combined with radial velocity
-- **Exoplanet Characterization**![[Pasted image 20221103193258.png]]
+- **Exoplanet Characterization**
+  ![[Pasted image 20221103193258.png]]
+  
