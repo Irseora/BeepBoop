@@ -38,8 +38,12 @@ $\text{Partitie: } \pi \in \mathcal{P}''(A), \ \text{ daca } B_1, B_2 \in \pi, \
 $\hspace{1.8cm} \mathcal{P}(A) = \{X \ | \ X \subseteq A\} \hspace{1cm} \mathcal{P}'' = \mathcal{P} \backslash \{\emptyset\} \hspace{1cm} a \ \rho_{\pi} \ b \iff \exists B \in \pi \text{ a.i. } a,b \in B \hspace{1cm} A|\rho_{\pi} = \pi$
 $\text{Sistem de reprezentanti: familia de elemente } \{a_i \ | \ i \in I\} \subseteq A,$
 $\hspace{5cm} \text{ daca } \forall i,j \in I, \ i \ne j \Rightarrow a_i \ \overline \rho \ a_j \ \text{ si } \ \forall x \in A, \ \exists i \in I \text{ a.i. } \ x \ \rho \ a$
-
----
+  
+.
+.
+.  
+.
+.
 
 ### Multimi ordonate. Latici
 $\text{Relatie de ordine: } (R) + (T) + (A) \hspace{1cm} \text{Not.: } (A, \le) \hspace{1cm} \text{Multime ordonata: } A$
@@ -49,4 +53,7 @@ $\hspace{8.2 cm} \rightarrow \ \ \text{Margine inferioara exacta: cel mai mare m
 $\text{Cel mai mare element: } x \le \alpha, \ \ \forall x \in A \ \ \rightarrow \ \ \text{Majorant / margine superioara: } a \in A, \ \ x \le a, \ \ \forall x \in B$
 $\hspace{8.3 cm} \rightarrow \ \ \text{Margine superioara exacta: cel mai mic majorant}$
 $\text{Cel mai mic element: } 0 \hspace{1cm} \text{Cel mai mare element: } 1$
-$inf B = a \Leftrightarrow \begin{cases} a \le x, & \forall x \in B \\ \alpha \le x, & \forall x \in B \ \Rightarrow \ \alpha \le a \end{cases} \hspace{2cm} sup B = a \Leftrightarrow \begin{cases}  \end{cases}$
+$inf B = a \Leftrightarrow \begin{cases} a \le x, & \forall x \in B \\ \alpha \le x, & \forall x \in B \ \Rightarrow \ \alpha \le a \end{cases} \hspace{2cm} sup B = a \Leftrightarrow \begin{cases} x \le a, & \forall x \in B \\ x \le \alpha, & \forall x \in B \ \Rightarrow \ a \le \alpha \end{cases}$
+$\text{Latice: } (L, \le) \text{ daca } \forall x,y \in L, \ \ \exists \ inf\{x,y\} \text{ si } \exists \ sup\{x,y\} \hspace{1cm} \text{Latice completa: daca } \forall x \in L, \ \ \exists \ inf X \text{ si } \exists \ sup X$
+$\text{Not.: } imf\{x,y\} = x \land y \ \ \ sup\{x,y\} = x \lor y$
+$x \land y = a \Leftrightarrow \begin{cases} a \le x \text{ si } a \le y \\ \alpha \le x \text{ si } \alpha \le y \ \Rightarrow \ \alpha \le a \end{cases} \hspace{2.5cm} x \lor y = a \Leftrightarrow \begin{cases} x \le a \text{ si } y \le a \\ x \le \alpha \text{ si } y \le \alpha \ \Rightarrow \ a \le \alpha \end{cases}$
