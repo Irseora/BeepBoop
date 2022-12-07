@@ -42,9 +42,7 @@
 	- "Sunt frustrata cand trebuie sa strang dupa tine"
 - comportament neadecvat = o nevoie a copilului nesatisfacuta
 - adultul trebuie sa isi poata controla emotiile
-- 
-
-
+	- take time to breathe, calm down before talking to child
 
 --- 
 
