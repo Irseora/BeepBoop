@@ -62,7 +62,7 @@
 - Cosmology & The Expansion of the Universe
 	- Cosmic Microwave Background Radiation -> *Afterglow of Creation - Marcus Chown*
 		- "It carries with it a "baby photo" of the Universe"
-- ##### Planetary System Formation (?)
+- ##### ~~Planetary System Formation (?)~~
 - ##### Space Observation
 	- Equatorial Coordinate System
 	- Ecliptic Coordinate System

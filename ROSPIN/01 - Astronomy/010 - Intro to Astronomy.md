@@ -6,7 +6,7 @@
 
 ### Astronomy vs. Astrophysics
 - *Astronomy* = study of universe beyond atmosphere
-	- Branches: atrometry, celestial mechanics & astrophysics
+		- Branches: astrometry, celestial mechanics & astrophysics
 - *Astrophysics* = branch of astronomy, physical processes
 
 ### [[011 - History of Astronomy|Brief history of astronomy & space observations]]

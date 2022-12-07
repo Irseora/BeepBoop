@@ -21,5 +21,5 @@
 ---
 
 #### 🍎 Links
-- [[Fundamente - Set 1]]
-- [[Fundamente - Set 2 - Secvente]]
+- [[ArhSis - BigInt]]
+- [[ROSPIN - Essay]]
