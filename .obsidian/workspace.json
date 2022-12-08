@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "039ba4e69d10328d",
+        "id": "b99a31eaaec41f2b",
         "type": "tabs",
         "children": [
           {
-            "id": "a9b0d8ec45844bef",
+            "id": "6b27c00895279ba3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "source",
+                "file": "Psihologie/Educatia Dincolo de Pedeapsa si Recompensa.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "2c60a94328248b1e",
+            "id": "990c197065d06975",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROSPIN/Live Sessions/LS1 - Intro.md",
+                "file": "Arhitectura Sistemelor de Calcul/8 Dec - Curs - ASI.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,17 +44,8 @@
       {
         "id": "bf86cf27ca798e59",
         "type": "tabs",
+        "dimension": 24.6119733924612,
         "children": [
-          {
-            "id": "44c52d7d7ae1d4d0",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "a7251897de29652f",
             "type": "leaf",
@@ -77,12 +68,39 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a9b0d8ec45844bef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "ca09356c349721ef",
+        "type": "tabs",
+        "dimension": 75.3880266075388,
+        "children": [
+          {
+            "id": "44c52d7d7ae1d4d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "89ed5c2abbe8819b",
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROSPIN/Live Sessions/LS1 - Intro.md",
+                "file": "Arhitectura Sistemelor de Calcul/8 Dec - Curs - ASI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROSPIN/Live Sessions/LS1 - Intro.md",
+                "file": "Arhitectura Sistemelor de Calcul/8 Dec - Curs - ASI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROSPIN/Live Sessions/LS1 - Intro.md"
+                "file": "Arhitectura Sistemelor de Calcul/8 Dec - Curs - ASI.md"
               }
             }
           }
@@ -149,11 +167,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c60a94328248b1e",
+  "active": "990c197065d06975",
   "lastOpenFiles": [
+    "Psihologie/Educatia Dincolo de Pedeapsa si Recompensa.md",
+    "ROSPIN/Live Sessions/LS1 - Intro.md",
     "ROSPIN/Live Sessions/LS2 - Careers & Roundtable.md",
     "ROSPIN/Live Sessions/LS3 - Closing.md",
-    "Psihologie/Educatia Dincolo de Pedeapsa si Recompensa.md",
     "ROSPIN/01 - Astronomy/010 - Intro to Astronomy.md",
     "CheatSheets/Algebra - Teorie.md",
     "Planner/ROSPIN - Essay.md",
