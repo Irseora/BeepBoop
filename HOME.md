@@ -4,11 +4,11 @@
 ```````col
 ``````col-md
 #### 🍁 To-Do
-- [ ] ArhSis - Automat Vanzari (Dec.22)
-- [x] ArhSis - Hex Viewer (Dec.22)
+- [ ] [[ArhSis - Automat Vanzari]] (Dec.21)
 - [ ] [[ArhSis - BigInt]] (Dec.28)
-- [ ] Fundamente - Approximate Search
-- [ ] [[ROSPIN - Essay]] (Dec.7)
+- [ ] [[ArhSis - Asamblor Emulator ARC]] (Jan.19)
+- [ ] Fundamente - Approximate Search (???)
+- [ ] [[Fundamente - Set 3 - Tablouri]] (Jan.20)
 ``````
 
 ``````col-md
@@ -21,5 +21,7 @@
 ---
 
 #### 🍎 Links
+- [[ArhSis - Automat Vanzari]]
 - [[ArhSis - BigInt]]
-- [[ROSPIN - Essay]]
+- [[ArhSis - Asamblor Emulator ARC]]
+- [[Fundamente - Set 3 - Tablouri]]

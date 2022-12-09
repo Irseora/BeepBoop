@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psihologie/Educatia Dincolo de Pedeapsa si Recompensa.md",
+                "file": "Planner/Fundamente - Set 3 - Tablouri.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "990c197065d06975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arhitectura Sistemelor de Calcul/8 Dec - Curs - ASI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "89ed5c2abbe8819b",
@@ -116,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arhitectura Sistemelor de Calcul/8 Dec - Curs - ASI.md",
+                "file": "Planner/Fundamente - Set 3 - Tablouri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arhitectura Sistemelor de Calcul/8 Dec - Curs - ASI.md",
+                "file": "Planner/Fundamente - Set 3 - Tablouri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arhitectura Sistemelor de Calcul/8 Dec - Curs - ASI.md"
+                "file": "Planner/Fundamente - Set 3 - Tablouri.md"
               }
             }
           }
@@ -167,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "990c197065d06975",
+  "active": "6b27c00895279ba3",
   "lastOpenFiles": [
+    "Planner/Fundamente - Set 3 - Tablouri.md",
+    "HOME.md",
+    "Planner/ArhSis - Automat Vanzari.md",
+    "Planner/ArhSis - Asamblor Emulator ARC.md",
     "Psihologie/Educatia Dincolo de Pedeapsa si Recompensa.md",
+    "Arhitectura Sistemelor de Calcul/8 Dec - Curs.md",
     "ROSPIN/Live Sessions/LS1 - Intro.md",
     "ROSPIN/Live Sessions/LS2 - Careers & Roundtable.md",
     "ROSPIN/Live Sessions/LS3 - Closing.md",
-    "ROSPIN/01 - Astronomy/010 - Intro to Astronomy.md",
-    "CheatSheets/Algebra - Teorie.md",
-    "Planner/ROSPIN - Essay.md",
-    "ROSPIN/01 - Astronomy/011 - History of Astronomy.md",
-    "HOME.md",
-    "Fundamentele Programarii/Curs - 29.11.md"
+    "ROSPIN/01 - Astronomy/010 - Intro to Astronomy.md"
   ]
 }
