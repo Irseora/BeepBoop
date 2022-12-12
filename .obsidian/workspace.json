@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b99a31eaaec41f2b",
+        "id": "dc9180cfb60796b2",
         "type": "tabs",
         "children": [
           {
-            "id": "6b27c00895279ba3",
+            "id": "768150d35406c384",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/Fundamente - Set 3 - Tablouri.md",
+                "file": "Algebra/Algebra.md",
                 "mode": "preview",
                 "source": false
               }
@@ -29,10 +29,35 @@
     "type": "split",
     "children": [
       {
+        "id": "d175e970eb5f3f5a",
+        "type": "tabs",
+        "dimension": 25.865384615384617,
+        "children": [
+          {
+            "id": "b3cabec73600739a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "bf86cf27ca798e59",
         "type": "tabs",
-        "dimension": 24.6119733924612,
+        "dimension": 74.13461538461539,
         "children": [
+          {
+            "id": "44c52d7d7ae1d4d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
           {
             "id": "a7251897de29652f",
             "type": "leaf",
@@ -55,38 +80,12 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "a9b0d8ec45844bef",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ca09356c349721ef",
-        "type": "tabs",
-        "dimension": 75.3880266075388,
-        "children": [
-          {
-            "id": "44c52d7d7ae1d4d0",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237
   },
   "right": {
     "id": "89ed5c2abbe8819b",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/Fundamente - Set 3 - Tablouri.md",
+                "file": "Algebra/Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/Fundamente - Set 3 - Tablouri.md",
+                "file": "Algebra/Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/Fundamente - Set 3 - Tablouri.md"
+                "file": "Algebra/Algebra.md"
               }
             }
           }
@@ -153,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b27c00895279ba3",
+  "active": "768150d35406c384",
   "lastOpenFiles": [
-    "Planner/Fundamente - Set 3 - Tablouri.md",
-    "HOME.md",
-    "Planner/ArhSis - Automat Vanzari.md",
-    "Planner/ArhSis - Asamblor Emulator ARC.md",
-    "Psihologie/Educatia Dincolo de Pedeapsa si Recompensa.md",
-    "Arhitectura Sistemelor de Calcul/8 Dec - Curs.md",
-    "ROSPIN/Live Sessions/LS1 - Intro.md",
-    "ROSPIN/Live Sessions/LS2 - Careers & Roundtable.md",
-    "ROSPIN/Live Sessions/LS3 - Closing.md",
-    "ROSPIN/01 - Astronomy/010 - Intro to Astronomy.md"
+    "ROSPIN/01 - Astronomy/014 - Planetary Dynamics.md",
+    "Algebra/Algebra.md",
+    "Arhitectura Sistemelor de Calcul/Arhitectura Sistemelor de Calcul.md",
+    "Geometrie/Geometrie.md",
+    "Fundamentele Programarii/Fundamentele Programarii.md",
+    "Algebra/ALGEBRA.md",
+    "Analiza/Analiza.md",
+    "Analiza/ANALIZA.md",
+    "Logica/Logica.md",
+    "Psihologie/Psihologie.md"
   ]
 }
