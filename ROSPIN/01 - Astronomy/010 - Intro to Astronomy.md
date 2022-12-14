@@ -17,7 +17,7 @@
 - 4.6 billion years ago
 - part of the cloud collapsed in on itself => disk => nuclear fusion => sun
 - protoplanetary
-- only roky things could survive near the sun => terrestrial planets close, gas giants far
+- only rocky things could survive near the sun => terrestrial planets close, gas giants far
 
 ### Space observation & missions
 - **How a telescope works**
