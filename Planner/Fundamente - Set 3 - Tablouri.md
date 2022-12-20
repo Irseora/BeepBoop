@@ -48,7 +48,7 @@ Due: 21 January, 12 AM
       Se da un numar natural n.  
       Se cere sa se afiseze toate numerele prime mai mici sau egale cu n.
 
-- [ ]  12. Sortare selectie.
+- [x]  12. Sortare selectie.
       Implementati algoritmul de sortare Selection Sort.  
 
 - [ ]  13. Sortare prin insertie.
@@ -65,13 +65,13 @@ Due: 21 January, 12 AM
 - [ ] 17. Se da un numar n in baza 10 si un numar b. $1 < b < 17$
       Sa se converteasca si sa se afiseze numarul n in baza b.  
 
-- [ ] 18. Se da un polinom de grad n ai carui coeficienti sunt stocati intr-un vector.  
+- [x] 18. Se da un polinom de grad n ai carui coeficienti sunt stocati intr-un vector.  
       Cel mai putin semnificativ coeficient este pe pozitia zero in vector.  
       Se cere valoarea polinomului intr-un punct x.  
 
 - [x] 19. Se da un vector s (vectorul in care se cauta) si un vector p (vectorul care se cauta).  
       Determinati de cate ori apare p in s.  
-      De ex. Daca s = [1,2,1,2,1,3,1,2,1] si p = [1,2,1] atunci p apare in s de 3 ori.  
+      De ex. Daca s = [1, 2, 1, 2, 1, 3, 1, 2, 1] si p = [1, 2, 1] atunci p apare in s de 3 ori.  
       (Problema este dificila doar daca o rezolvati cu un algoritm liniar)
 
 - [ ] 20. Se dau doua siraguri de margele formate din margele albe si negre, notate s1, respectiv s2.  
@@ -87,7 +87,7 @@ Due: 21 January, 12 AM
 
 - [x] 23. Aceleasi cerinte ca si la problema anterioara, dar de data asta elementele din v1 respectiv v2  sunt in ordine strict crescatoare.  
 
-- [ ] 24. Aceleasi cerinte ca si la problema anterioara, dar de data asta elementele sunt stocate ca vectori cu valori binare  
+- [x] 24. Aceleasi cerinte ca si la problema anterioara, dar de data asta elementele sunt stocate ca vectori cu valori binare  
       (v[i] este 1 daca i face parte din multime si este 0 in caz contrar).  
 
 - [x] 25. (Interclasare) Se dau doi vector sortati crescator v1 si v2.  

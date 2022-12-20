@@ -4,6 +4,21 @@
       "type": "file",
       "title": "HOME",
       "path": "HOME.md"
+    },
+    {
+      "type": "file",
+      "title": "ARHSIS",
+      "path": "Arhitectura Sistemelor de Calcul/ARHSIS.md"
+    },
+    {
+      "type": "file",
+      "title": "FUNDAMENTE",
+      "path": "Fundamentele Programarii/FUNDAMENTE.md"
+    },
+    {
+      "type": "file",
+      "title": "LOGICA",
+      "path": "Logica/LOGICA.md"
     }
   ]
 }

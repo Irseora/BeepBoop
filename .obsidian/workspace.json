@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc9180cfb60796b2",
+        "id": "eb7e6192ea355da9",
         "type": "tabs",
         "children": [
           {
-            "id": "9e9f5da0e3608e55",
+            "id": "35f40f06b5935adb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logica/REFERAT.md",
+                "file": "Logica/040 - Latice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237
+    "width": 245.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "89ed5c2abbe8819b",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logica/REFERAT.md",
+                "file": "Logica/040 - Latice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logica/REFERAT.md",
+                "file": "Logica/040 - Latice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logica/REFERAT.md"
+                "file": "Logica/040 - Latice.md"
               }
             }
           }
@@ -152,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e9f5da0e3608e55",
+  "active": "35f40f06b5935adb",
   "lastOpenFiles": [
-    "Algebra/ALGEBRA.md",
-    "Logica/REFERAT.md",
+    "Logica/030 - Diagrama Hasse.md",
     "Logica/020 - Relatii.md",
-    "Logica/LOGICA.md",
-    "Psihologie/PSIHOLOGIE.md",
-    "ROSPIN/ROSPIN.md",
-    "ROSPIN/01 - Astronomy/010 - Intro to Astronomy.md",
-    "Fundamentele Programarii/Fundamentele Programarii.md",
-    "Fundamentele Programarii/12 Dec - Curs.md",
-    "Arhitectura Sistemelor de Calcul/Arhitectura Sistemelor de Calcul.md"
+    "Logica/010 - Multimi.md",
+    "Logica/00 - Intro/000 - Introducere.md",
+    "Logica/00 - Intro/004 - Implicatie.md",
+    "Logica/00 - Intro/005 - Echivalenta.md",
+    "Logica/00 - Intro/003 - Disjunctie (OR).md",
+    "Logica/00 - Intro/002 - Conjunctia (AND).md",
+    "Logica/00 - Intro/001 - Legile De Morgan.md",
+    "Planner/assets/Pasted image 20221216143616.png"
   ]
 }

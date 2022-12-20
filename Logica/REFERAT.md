@@ -45,4 +45,15 @@
 ---
 
 ###### Sources
-- Wolfram Alpha
+- Wolfram Alpha (Mathworld)
+- Matematica: Manual pentru clasa a IX-a: Trunchi comun + curriculum diferentiat
+
+---
+
+- conjecture / hypothesis = apparently true, but neither verified nor disproven
+- axiom = proposition self-evidently true without proof
+- axiom schema = sentential formula representing infinitely many axioms
+	- ex: $F \Rightarrow F \lor G$
+		- $A \Rightarrow A \lor B, \ \ A \Rightarrow A \lor A, \ \ \neg A \Rightarrow \neg A \lor B$
+		- $(A \Rightarrow B) \Rightarrow (A \Rightarrow B) \lor (D \land E)$
+- 

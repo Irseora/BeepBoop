@@ -5,8 +5,8 @@
 	- $A \subset \mathcal{U}$
 - **Clasa tuturor multimilor**: $|Set|$ sau $|Ens|$
 
-- $\mathbb{O}:A \rightarrow \mathbb{2}, \ \ \mathbb{0}(x) = 0$ - ???
-- $\mathbb{1}:A \rightarrow \mathbb{2}, \ \ \mathbb{1}(x) = 1$ - ???
+- $\mathbb{O}:A \rightarrow \mathbb{2}, \ \ \mathbb{0}(x) = 0$
+- $\mathbb{1}:A \rightarrow \mathbb{2}, \ \ \mathbb{1}(x) = 1$
 
  - **Functia caracteristica** a multimii A: $\varphi_A:X \rightarrow \mathbb{2}, \hspace{3mm} \varphi_A(x) = \begin{cases} 1, \text{ daca } x \in A \\ 0, \text{ daca } x \notin A \end{cases}$
   $X \subset \mathcal{U}, \ A \subset X$
@@ -32,3 +32,6 @@
 	8. $(A \rightarrow B) \rightarrow (\bar B \rightarrow \bar A) = \mathcal{U}$
 	9. $A \rightarrow \bar A = \mathcal{U}$
 	10. $\bar A \rightarrow A = \mathcal{U}$
+
+- $A \ \Delta \ B = (A \ \backslash \ B) \cup (B \ \backslash \ A)$
+	- $\varphi _{A \ \Delta \ B} = \varphi_A + \varphi_B - 2 \times \varphi_A \varphi_B$

@@ -5,7 +5,7 @@
 ### Complementara unei Multimi
 - Complementara lui X fata de E: *$C_E(X)$* $= E \ X = \bar X$
 
-#### [[001 - Legile de Morgan|Legile lui de Morgan]]
+#### [[001 - Legile De Morgan|Legile lui de Morgan]]
 - *$\overline {A \cup B} = \bar A \cap \bar B$*
 - *$\overline {A \cap B} = \bar A \cup \bar B$*
 
