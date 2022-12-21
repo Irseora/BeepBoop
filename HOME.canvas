@@ -11,12 +11,15 @@
 		{"id":"ea491aa6a69310d9","x":-987,"y":-1214,"width":229,"height":62,"color":"1","type":"text","text":"# Assignments"},
 		{"id":"b0434a5bcf6c33aa","x":-987,"y":-1462,"width":231,"height":253,"type":"file","file":"xassets/d.jpg"},
 		{"id":"8ecc7dda22b3de65","x":507,"y":-1063,"width":316,"height":50,"color":"#e65656","type":"text","text":"🎄 🎁 🎅"},
-		{"id":"f64e7fe15fd39c35","x":909,"y":-1584,"width":392,"height":248,"color":"1","type":"text","text":"## TO-DO:\n- [x] <3\n- [ ] "},
-		{"id":"d7da82a857e789c7","x":1209,"y":-1441,"width":119,"height":155,"type":"file","file":"xassets/flowerpot1.png"},
-		{"id":"96d17de388a4d4b5","x":1038,"y":-1865,"width":231,"height":253,"type":"file","file":"xassets/a.jpg"},
 		{"id":"cdce8e61a02f8e89","x":211,"y":-940,"width":115,"height":54,"color":"1","type":"text","text":"💅 Tamy"},
-		{"id":"174b4862ff9592a6","x":717,"y":-1013,"width":706,"height":649,"type":"file","file":"xassets/cartwheel.png"},
-		{"id":"fb42652501a70719","x":-220,"y":-766,"width":275,"height":299,"type":"file","file":"xassets/c.jpg"}
+		{"id":"fcfa72d567a88f40","x":540,"y":-946,"width":250,"height":60,"color":"3","type":"text","text":"🎆 🎇 ✨"},
+		{"id":"174b4862ff9592a6","x":685,"y":-957,"width":706,"height":649,"type":"file","file":"xassets/cartwheel.png"},
+		{"id":"f0d9259baea02c41","x":31,"y":-708,"width":360,"height":400,"type":"file","file":"xassets/shiboba.jpg"},
+		{"id":"fb42652501a70719","x":-205,"y":-807,"width":275,"height":299,"type":"file","file":"xassets/c.jpg"},
+		{"id":"ba4256a03c86e8a0","x":347,"y":-1063,"width":139,"height":50,"color":"5","type":"text","text":"🏙️ Budapest"},
+		{"id":"f64e7fe15fd39c35","x":909,"y":-1507,"width":392,"height":248,"color":"1","type":"text","text":"## TO-DO:\n- [x] <3\n- [ ] "},
+		{"id":"d7da82a857e789c7","x":1209,"y":-1364,"width":119,"height":155,"type":"file","file":"xassets/flowerpot1.png"},
+		{"id":"96d17de388a4d4b5","x":1038,"y":-1788,"width":231,"height":253,"type":"file","file":"xassets/a.jpg"}
 	],
 	"edges":[
 		{"id":"0282e8691b0a037e","fromNode":"ea491aa6a69310d9","fromSide":"bottom","toNode":"1cb78e8f1ad91ce0","toSide":"left","color":"4"},

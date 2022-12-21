@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "276a1a07641a9d1a",
+        "id": "e32ea44f71965ff8",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa75c9fd9933760",
+            "id": "9d516b5a6724ad32",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,33 +16,16 @@
               "state": {
                 "file": "HOME.canvas",
                 "viewState": {
-                  "x": 290.17208610053666,
-                  "y": -1115.5680867133015,
-                  "zoom": -0.6666666666666665,
+                  "x": 202,
+                  "y": -1071,
+                  "zoom": -0.8031496868144237,
                   "snapToGrid": false
                 }
               },
               "pinned": true
             }
-          },
-          {
-            "id": "0f13bcf03e4a4a83",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "HOME.canvas",
-                "viewState": {
-                  "x": 302.57835173786873,
-                  "y": -1072.1150551227024,
-                  "zoom": -0.7793187016005816,
-                  "snapToGrid": false
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,17 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f13bcf03e4a4a83",
+  "active": "9d516b5a6724ad32",
   "lastOpenFiles": [
-    "xassets/cartwheel.png",
+    "xassets/shiboba.jpg",
     "HOME.canvas",
+    "xassets/cartwheel.png",
     "xassets/a.jpg",
     "xassets/b.jpg",
     "xassets/c.jpg",
     "xassets/d.jpg",
     "xassets/December 2022.png",
     "xassets/nigh_flowers.png",
-    "xassets/flowerpot3.png",
-    "xassets/flowerpot1.png"
+    "xassets/flowerpot3.png"
   ]
 }
