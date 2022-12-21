@@ -1,6 +1,7 @@
+### Fundamente - Set 3
 ###### Deadline
-Opens: 20 January, 12 AM
-Due: 21 January, 12 AM
+Opens: 20 January - 12 AM
+Due: 21 January - 12 AM
 
 - [ ] **Testing**
 

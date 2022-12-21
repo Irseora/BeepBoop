@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"8615a9cdeca957d7","x":-372,"y":-1751,"width":1243,"height":960,"type":"file","file":"xassets/December 2022.png"},
+		{"id":"fbd1cdb6915b8aa0","x":-329,"y":-886,"width":1152,"height":50,"color":"5","type":"text","text":"❄️ Winter Break"},
+		{"id":"5f06cc67836668de","x":-758,"y":-1804,"width":344,"height":688,"type":"file","file":"xassets/nigh_flowers.png"},
+		{"id":"fe7b599588757c88","x":-692,"y":-861,"width":320,"height":200,"color":"1","type":"file","file":"Planner/ArhSis - Asamblor Emulator ARC.md"},
+		{"id":"1cb78e8f1ad91ce0","x":-758,"y":-1063,"width":252,"height":166,"color":"1","type":"file","file":"Planner/ArhSis - BigInt.md"},
+		{"id":"67f3ea1acc624fdb","x":-790,"y":-617,"width":258,"height":199,"color":"1","type":"file","file":"Planner/Fundamente - Set 3 - Tablouri.md"},
+		{"id":"597863e2b3e03734","x":-384,"y":-1834,"width":110,"height":221,"type":"file","file":"xassets/flowerpot2.png"},
+		{"id":"dee11155ada0b050","x":-437,"y":-747,"width":114,"height":229,"type":"file","file":"xassets/flowerpot3.png"},
+		{"id":"ea491aa6a69310d9","x":-987,"y":-1214,"width":229,"height":62,"color":"1","type":"text","text":"# Assignments"},
+		{"id":"b0434a5bcf6c33aa","x":-987,"y":-1462,"width":231,"height":253,"type":"file","file":"xassets/d.jpg"},
+		{"id":"8ecc7dda22b3de65","x":507,"y":-1063,"width":316,"height":50,"color":"#e65656","type":"text","text":"🎄 🎁 🎅"},
+		{"id":"f64e7fe15fd39c35","x":909,"y":-1584,"width":392,"height":248,"color":"1","type":"text","text":"## TO-DO:\n- [x] <3\n- [ ] "},
+		{"id":"d7da82a857e789c7","x":1209,"y":-1441,"width":119,"height":155,"type":"file","file":"xassets/flowerpot1.png"},
+		{"id":"96d17de388a4d4b5","x":1038,"y":-1865,"width":231,"height":253,"type":"file","file":"xassets/a.jpg"},
+		{"id":"cdce8e61a02f8e89","x":211,"y":-940,"width":115,"height":54,"color":"1","type":"text","text":"💅 Tamy"},
+		{"id":"174b4862ff9592a6","x":717,"y":-1013,"width":706,"height":649,"type":"file","file":"xassets/cartwheel.png"},
+		{"id":"fb42652501a70719","x":-220,"y":-766,"width":275,"height":299,"type":"file","file":"xassets/c.jpg"}
+	],
+	"edges":[
+		{"id":"0282e8691b0a037e","fromNode":"ea491aa6a69310d9","fromSide":"bottom","toNode":"1cb78e8f1ad91ce0","toSide":"left","color":"4"},
+		{"id":"5258c5180411fd40","fromNode":"ea491aa6a69310d9","fromSide":"bottom","toNode":"67f3ea1acc624fdb","toSide":"left","color":"4"},
+		{"id":"e97276c5cb436749","fromNode":"ea491aa6a69310d9","fromSide":"bottom","toNode":"fe7b599588757c88","toSide":"left","color":"4"}
+	]
+}
