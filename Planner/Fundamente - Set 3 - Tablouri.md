@@ -49,49 +49,49 @@ Due: 21 January - 12 AM
       Se da un numar natural n.  
       Se cere sa se afiseze toate numerele prime mai mici sau egale cu n.
 
-- [ ]  12. Sortare selectie.
-      Implementati algoritmul de sortare <Selection Sort>.  
+- [x]  12. Sortare selectie.
+      Implementati algoritmul de sortare Selection Sort.  
 
 - [ ]  13. Sortare prin insertie.
-      Implementati algoritmul de sortare <Insertion Sort>.  
+      Implementati algoritmul de sortare Insertion Sort.  
 
 - [x] 14. Interschimbati elementele unui vector in asa fel incat la final toate valorile egale cu zero sa ajunga la sfarsit.  
       (nu se vor folosi vectori suplimentari, operatia se va realiza inplace cu un algoritm eficient, se va face o singura parcugere a vectorului)
 
-- [ ] 15. Modificati un vector prin eliminarea elementelor care se repeta, fara a folosi un alt vector. 
+- [x] 15. Modificati un vector prin eliminarea elementelor care se repeta, fara a folosi un alt vector. 
 
 - [x]  16. Se da un vector de n numere naturale.  
       Determinati cel mai mare divizor comun al elementelor vectorului.
 
-- [ ] 17. Se da un numar n in baza 10 si un numar b. 1 < b < 17
+- [ ] 17. Se da un numar n in baza 10 si un numar b. $1 < b < 17$
       Sa se converteasca si sa se afiseze numarul n in baza b.  
 
-- [ ] 18. Se da un polinom de grad n ai carui coeficienti sunt stocati intr-un vector.  
+- [x] 18. Se da un polinom de grad n ai carui coeficienti sunt stocati intr-un vector.  
       Cel mai putin semnificativ coeficient este pe pozitia zero in vector.  
       Se cere valoarea polinomului intr-un punct x.  
 
-- [ ] 19. Se da un vector s (vectorul in care se cauta) si un vector p (vectorul care se cauta).  
+- [x] 19. Se da un vector s (vectorul in care se cauta) si un vector p (vectorul care se cauta).  
       Determinati de cate ori apare p in s.  
-      De ex. Daca s = [1,2,1,2,1,3,1,2,1] si p = [1,2,1] atunci p apare in s de 3 ori.  
+      De ex. Daca s = [1, 2, 1, 2, 1, 3, 1, 2, 1] si p = [1, 2, 1] atunci p apare in s de 3 ori.  
       (Problema este dificila doar daca o rezolvati cu un algoritm liniar)
 
 - [ ] 20. Se dau doua siraguri de margele formate din margele albe si negre, notate s1, respectiv s2.  
       Determinati numarul de suprapuneri (margea cu margea) a unui sirag peste celalalt astfel incat margelele suprapuse au aceeasi culoare.  
       Siragurile de margele se pot roti atunci cand le suprapunem.  
 
-- [ ] 21. Se dau doi vectori.  
+- [x] 21. Se dau doi vectori.  
       Se cere sa se determine ordinea lor lexicografica (care ar trebui sa apara primul in dictionar).  
 
-- [x] 22. Se dau doi vectori v1 si v2. 
+- [ ] 22. Se dau doi vectori v1 si v2. 
       Se cere sa determine intersectia, reuniunea, si diferentele v1-v2 si v2 -v1. (implementarea operatiilor cu multimi)  
       Elementele care se repeta vor fi scrise o singura data in rezultat.  
 
-- [ ] 23. Aceleasi cerinte ca si la problema anterioara, dar de data asta elementele din v1 respectiv v2  sunt in ordine strict crescatoare.  
+- [x] 23. Aceleasi cerinte ca si la problema anterioara, dar de data asta elementele din v1 respectiv v2  sunt in ordine strict crescatoare.  
 
-- [ ] 24. Aceleasi cerinte ca si la problema anterioara, dar de data asta elementele sunt stocate ca vectori cu valori binare  
+- [x] 24. Aceleasi cerinte ca si la problema anterioara, dar de data asta elementele sunt stocate ca vectori cu valori binare  
       (v[i] este 1 daca i face parte din multime si este 0 in caz contrar).  
 
-- [ ] 25. (Interclasare) Se dau doi vector sortati crescator v1 si v2.  
+- [x] 25. (Interclasare) Se dau doi vector sortati crescator v1 si v2.  
       Construiti un al treilea vector ordonat crescator format din toate elementele din  v1 si v2.  
       Sunt permise elemente duplicate.  
 
@@ -117,4 +117,4 @@ Due: 21 January - 12 AM
        Intr-un vector cu n elemente, un element m este element majoritate daca mai mult de n/2 din valorile vectorului sunt egale cu m.  
        (prin urmare, daca un vector are element majoritate acesta este unul singur).  
        Sa se determine elementul majoritate al unui vector.  
-       (daca nu exista atunci se va afisa <nu exista>, incercati sa gasiti o solutie liniara).
+       (daca nu exista atunci se va afisa "nu exista", incercati sa gasiti o solutie liniara).

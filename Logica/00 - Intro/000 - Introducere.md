@@ -1,4 +1,4 @@
-![[001 - Legile de Morgan]]
+![[001 - Legile De Morgan]]
 
 ![[002 - Conjunctia (AND)]]
 

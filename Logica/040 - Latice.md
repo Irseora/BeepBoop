@@ -1,0 +1,7 @@
+- **Latice** = o mult. ordonata $(L, \le)$, daca $\forall x,y \in L \ \ \exists \ sup(x,y)$ si $inf(x,y)$
+	- Not.: $sup(x,y) = x \lor y \ \ \ inf(x,y) = x \land y$
+- **Axiome** ale laticelor:
+	- *Idempotenta*: $x \land x = x, \ \ x \lor x = x$
+	- *Comutativitate*: $x \lor y = y \lor x, \ \ x \land y = y \land x, \ \ \forall x,y \in L$
+	- *Asociativitate*: $x \lor (y \lor z) = (x \lor y) \lor z, \ \ \ x \land (y \land z) = (x \land y) \land z, \ \ \ \forall x,y \in L$
+	- 
