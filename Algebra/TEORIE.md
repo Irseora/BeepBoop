@@ -45,7 +45,7 @@ $\hspace{5cm} \text{ daca } \forall i,j \in I, \ i \ne j \Rightarrow a_i \ \over
 .
 .
 
-### Multimi ordonate. Latici
+### Multimi Ordonate. Latici
 $\text{Relatie de ordine: } (R) + (T) + (A) \hspace{1cm} \text{Not.: } (A, \le) \hspace{1cm} \text{Multime ordonata: } A$
 $\text{Multime total ordonata / lant: } a \le b \text{ sau } b \le a , \ \ \forall a,b \in A$
 $\text{Cel mai mic element: } \ \ \alpha \le x, \ \ \forall x \in A \ \ \rightarrow \ \ \text{Minorant / margine inferioara: } a \in A, \ \ a \le x, \ \ \forall x \in B$
@@ -57,3 +57,42 @@ $inf B = a \Leftrightarrow \begin{cases} a \le x, & \forall x \in B \\ \alpha \l
 $\text{Latice: } (L, \le) \text{ daca } \forall x,y \in L, \ \ \exists \ inf\{x,y\} \text{ si } \exists \ sup\{x,y\} \hspace{1cm} \text{Latice completa: daca } \forall x \in L, \ \ \exists \ inf X \text{ si } \exists \ sup X$
 $\text{Not.: } imf\{x,y\} = x \land y \ \ \ sup\{x,y\} = x \lor y$
 $x \land y = a \Leftrightarrow \begin{cases} a \le x \text{ si } a \le y \\ \alpha \le x \text{ si } \alpha \le y \ \Rightarrow \ \alpha \le a \end{cases} \hspace{2.5cm} x \lor y = a \Leftrightarrow \begin{cases} x \le a \text{ si } y \le a \\ x \le \alpha \text{ si } y \le \alpha \ \Rightarrow \ a \le \alpha \end{cases}$
+
+### Teoria Grupurilor
+$\text{Operatie n-ara: } \forall f : A^n \rightarrow A \text{, unde } n \in N$
+$\text{Asociativ: } (x * y) * z = x * (y * z) \hspace{1cm} \text{Comutativ: } x * y = y * x$
+$\text{Element neutru: } x * e = e * x = x \hspace{1cm} \text{Element simetric: } x * x' = x' * x = e$
+$\text{Grupoid: } (G, *), \ \ G \ne \emptyset \hspace{1cm} \text{Semigrup: } (S, *), \ \ S \ne \emptyset, \ \ Asociativ$
+$\text{Monoid: } (M, *), \ \ M \ne \emptyset, \ \ \text{Asociativ,} \ \ \exists \text{ Element neutru}$
+$\text{Morfism de monoizi: } f: M_1 \rightarrow  M_2, \ \ ( M_1, *), ( M_2, \circ), \ \ \displaystyle \begin{cases} f(x*y) = f(x) \circ f(y) && ,\forall x,y \in  M_1 \\ f(e_1) = e_2 \end{cases}$
+$\text{Izomorfism de monoizi: morfism + bijectiv} \ \ \displaystyle \begin{cases} f \text{ inversabil} \\ \text{inversa este morfism de monoizi} \end{cases}$
+$\text{Multimea elementelor simetrice: } U(M, *) = \{x \in M \ | \ x \text{ simetrizabil}\}$
+$\text{Grup: } (G, *), \ \ G \ne \emptyset, \ \ \text{Asociativ,} \ \ \exists \text{ Element neutru,} \ \ \forall \text{ Element simetrizabil}$
+
+### Subgrupuri
+$\text{Subgrup: } (H \le G), \ \ G \text{ - grup,} \ \ H \subseteq G, \ \ H \ne \emptyset, \ \ \ \ H \text{ - parte stabila a lui G, grup}$
+$\text{Criteriile subgrupului: } 1) \ H \le G \hspace{1cm} 2) \ x * y \in H, \ \forall x,y \in H \hspace{1cm} 3) \ x * y^{-1} \in H, \ \forall x,y \in H$
+$\hspace{4.7cm} 4) \ 1 \in H \hspace{1.2cm} 5) \ x ^{-1} \in H, \ \forall x \in H$
+$G \text{ - grup}, \ \ X, Y \in G \ \Rightarrow \ X * Y = \{xy \ | \ x \in X, \ y \in Y\} \hspace{1cm} X^{-1} = \{x^{-1} \ | \ x * x^{-1} = x^{-1} * x, \ \forall x \in X\}$
+$\text{Altfel: } \ \  1) \ H \le G \hspace{1cm} 2) \ H * H = H \hspace{1cm} 3) \ H * H^{-1} = H$
+$\text{Intersectia unei familii de subgrupuri este subgrup. } \Leftrightarrow \  H_i \le G, \ \forall i \in I \ \Rightarrow \ \displaystyle \bigcap \limits _{i \in I} H_i \le G$
+$\text{Daca }H_1, \ H_2 \le G \ \Rightarrow H_1 \cap H_2 \le G \text{ dar } H_1 \cup H_2 \nleq G$
+$\text{Daca } H_1, \ H_2 \le G \ \ \text{ si } H_1 \cup H_2 \le G \ \Leftrightarrow \ H_1 \subseteq H_2 \text{ sau } H_2 \subseteq H_1$
+$\text{Mult. tuturor subgrupurilor lui G: } \mathcal S(G) \hspace{1cm} \text{Subgrupuri improprii: } \{1\}, G \le G$
+
+### Subgrup Generat de X
+$<X> = \bigcap \ \{H \ | \ H \le G, \ X \subseteq H\} \hspace{1cm} <X> \le G \hspace{1cm} X \subseteq <X> \hspace{1cm} X \subseteq H \le G \Rightarrow <X> \subseteq H$
+$<X> = \text{ cel mai mic subgrup al lui G, care il contine pe X} \hspace{1cm} \text{Element neutru: } <X> = \{1\}$
+$<X> = \text{subgrupul generat de x (croset)} = \{x_1,x_2,...,x_n \ | \ n \in \mathbb{N}^*, \ x_1,x_2,...,x_n \in X \cup X^{-1}\}$
+$<X> \text{ coincide cu mult. tuturor produselor (finite) de elemente din } X \text{ sau } X^{-1} \hspace{1cm} X^{-1} = \{x^{-1} \ | \ x \in X\}$
+$<X> = \{X ^k \ | \ k \in \mathbb{Z}\} = \{...,x^{-2}, x^{-1}, 0, x, x^2, ...\}$
+
+.
+.
+
+### Subgrup Ciclic Generat de x
+$<x> = \text{ grupul ciclic generat de x: } \exists x \in G \text{ a.i. } G = <x>$
+$x \in G \text{ este de ordin finit / periodic daca } \exists m \in \mathbb{N}^* \text{ a.i. } x^m = 1 \text{ (element neutru)}$
+$\text{Ordinul elementului x: } ord \ x = \text{ cel mai mic m cu proprietatea anterioara}$
+$ord \ x = n \Leftrightarrow x^n=1 \text{ si } x^1, x^2, ..., x^{n-1} \ne 1 \hspace{1cm} ord \ x = n \Rightarrow x^{-1} = x^{n-1}$
+$\exists \text{un singur element de ordin 1, elementul neutru}$
