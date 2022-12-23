@@ -16,13 +16,21 @@
               "state": {
                 "file": "HOME.canvas",
                 "viewState": {
-                  "x": 202,
-                  "y": -1071,
-                  "zoom": -0.8031496868144237,
+                  "x": 333.6048091662393,
+                  "y": -1017.1344421253418,
+                  "zoom": -0.6666666666666665,
                   "snapToGrid": false
                 }
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "9c5b4bd1273588b7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -170,15 +178,15 @@
   },
   "active": "9d516b5a6724ad32",
   "lastOpenFiles": [
-    "xassets/shiboba.jpg",
+    "Planner/assets/Scrapbook.png",
+    "Planner/assets/Pasted image 20221216143616.png",
+    "Planner/assets/Home_Banner.png",
+    "Planner/assets/a.jpg",
+    "ROSPIN/ROSPIN.md",
+    "Logica/LOGICA.md",
     "HOME.canvas",
-    "xassets/cartwheel.png",
-    "xassets/a.jpg",
-    "xassets/b.jpg",
-    "xassets/c.jpg",
-    "xassets/d.jpg",
-    "xassets/December 2022.png",
-    "xassets/nigh_flowers.png",
-    "xassets/flowerpot3.png"
+    "Arhitectura Sistemelor de Calcul/ARHSIS.md",
+    "Algebra/0010 - Asociativitate, Distributivitate, Comutativitate.md",
+    "Algebra/ALGEBRA.md"
   ]
 }

@@ -5,7 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🎄"
+      "💽",
+      "📓",
+      "📑",
+      "💭",
+      "🚀"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -16,5 +20,9 @@
       "left": 0
     }
   },
-  "HOME.canvas": "🎄"
+  "HOME.canvas": "🎄",
+  "ROSPIN": "🚀",
+  "Psihologie": "💭",
+  "Planner": "📓",
+  "Arhitectura Sistemelor de Calcul": "💽"
 }
