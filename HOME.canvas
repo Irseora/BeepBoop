@@ -1,31 +1,29 @@
 {
 	"nodes":[
+		{"id":"dc5879b745fec847","x":485,"y":-1151,"width":176,"height":50,"color":"1","type":"text","text":"📑Asamblor ARC"},
+		{"id":"fe427994f9748f3f","x":-372,"y":-1753,"width":1745,"height":982,"type":"file","file":"Planner/assets/January 2023.png"},
 		{"id":"ea491aa6a69310d9","x":-987,"y":-1214,"width":229,"height":62,"color":"1","type":"text","text":"# Assignments"},
 		{"id":"b0434a5bcf6c33aa","x":-987,"y":-1462,"width":231,"height":253,"type":"file","file":"Planner/assets/d.jpg"},
 		{"id":"5f06cc67836668de","x":-758,"y":-1804,"width":344,"height":688,"type":"file","file":"Planner/assets/nigh_flowers.png"},
-		{"id":"dc5879b745fec847","x":485,"y":-1151,"width":176,"height":50,"color":"1","type":"text","text":"📑Asamblor ARC"},
-		{"id":"74a7682c48953dd3","x":675,"y":-1151,"width":215,"height":50,"color":"1","type":"text","text":"📑 Fundamente Set 3"},
-		{"id":"8ce9e78dfcbb349e","x":-145,"y":-913,"width":199,"height":60,"color":"#ff0000","type":"text","text":"❗ EX - Fundamente P."},
-		{"id":"ec78527de6f9a0d7","x":62,"y":-913,"width":199,"height":60,"color":"#ff0000","type":"text","text":"❗ EX - Analiza"},
-		{"id":"fe427994f9748f3f","x":-372,"y":-1753,"width":1745,"height":982,"type":"file","file":"Planner/assets/January 2023.png"},
-		{"id":"4b8b97a195da8145","x":-181,"y":-1406,"width":1443,"height":50,"color":"5","type":"text","text":"❄️ Winter Break"},
-		{"id":"4de4962f7a9b2aaf","x":1062,"y":-1533,"width":200,"height":50,"color":"5","type":"text","text":"❄️ Winter Break"},
-		{"id":"597863e2b3e03734","x":-378,"y":-1863,"width":110,"height":221,"color":"4","type":"file","file":"Planner/assets/flowerpot2.png"},
-		{"id":"f64e7fe15fd39c35","x":1312,"y":-913,"width":392,"height":248,"color":"1","type":"text","text":"## TO-DO:\n- [x] <3\n- [ ] "},
-		{"id":"96d17de388a4d4b5","x":1589,"y":-1063,"width":231,"height":253,"type":"file","file":"Planner/assets/a.jpg"},
 		{"id":"fe7b599588757c88","x":-734,"y":-1083,"width":320,"height":200,"color":"1","type":"file","file":"Planner/ArhSis - Asamblor Emulator ARC.md"},
 		{"id":"67f3ea1acc624fdb","x":-804,"y":-816,"width":258,"height":199,"color":"1","type":"file","file":"Planner/Fundamente - Set 3 - Tablouri.md"},
 		{"id":"4e66ff2749b54040","x":634,"y":-1151,"width":97,"height":50,"color":"1","type":"text","text":"📑 ARC"},
 		{"id":"1fef85aa1624e3b0","x":731,"y":-1152,"width":136,"height":50,"color":"1","type":"text","text":"📑F. Set 3"},
 		{"id":"dee11155ada0b050","x":-429,"y":-853,"width":114,"height":229,"color":"4","type":"file","file":"Planner/assets/flowerpot3.png"},
+		{"id":"4b8b97a195da8145","x":-181,"y":-1406,"width":1443,"height":50,"color":"5","type":"text","text":"❄️ Winter Break"},
+		{"id":"4de4962f7a9b2aaf","x":1062,"y":-1533,"width":200,"height":50,"color":"5","type":"text","text":"❄️ Winter Break"},
+		{"id":"597863e2b3e03734","x":-378,"y":-1863,"width":110,"height":221,"color":"4","type":"file","file":"Planner/assets/flowerpot2.png"},
+		{"id":"f64e7fe15fd39c35","x":1312,"y":-913,"width":392,"height":248,"color":"1","type":"text","text":"## TO-DO:\n- [x] <3\n- [ ] "},
+		{"id":"96d17de388a4d4b5","x":1589,"y":-1063,"width":231,"height":253,"type":"file","file":"Planner/assets/a.jpg"},
 		{"id":"f0d9259baea02c41","x":361,"y":-789,"width":360,"height":399,"type":"file","file":"Planner/assets/shiboba.jpg"},
 		{"id":"fb42652501a70719","x":160,"y":-808,"width":275,"height":299,"type":"file","file":"Planner/assets/c.jpg"},
 		{"id":"174b4862ff9592a6","x":1336,"y":-1855,"width":587,"height":539,"type":"file","file":"Planner/assets/cartwheel.png"},
-		{"id":"d7da82a857e789c7","x":1312,"y":-1339,"width":119,"height":155,"color":"4","type":"file","file":"Planner/assets/flowerpot1.png"}
+		{"id":"d7da82a857e789c7","x":1312,"y":-1339,"width":119,"height":155,"color":"4","type":"file","file":"Planner/assets/flowerpot1.png"},
+		{"id":"8ce9e78dfcbb349e","x":-181,"y":-913,"width":199,"height":60,"color":"#ff0000","type":"text","text":"❗ EX - Fundamente P."},
+		{"id":"ec78527de6f9a0d7","x":18,"y":-913,"width":199,"height":60,"color":"#ff0000","type":"text","text":"❗ EX - Analiza"}
 	],
 	"edges":[
 		{"id":"5258c5180411fd40","fromNode":"ea491aa6a69310d9","fromSide":"bottom","toNode":"67f3ea1acc624fdb","toSide":"left","color":"4"},
-		{"id":"e97276c5cb436749","fromNode":"ea491aa6a69310d9","fromSide":"bottom","toNode":"fe7b599588757c88","toSide":"left","color":"4"},
-		{"id":"10aa746cb5e1f368","fromNode":"4e66ff2749b54040","fromSide":"right","toNode":"74a7682c48953dd3","toSide":"bottom"}
+		{"id":"e97276c5cb436749","fromNode":"ea491aa6a69310d9","fromSide":"bottom","toNode":"fe7b599588757c88","toSide":"left","color":"4"}
 	]
 }

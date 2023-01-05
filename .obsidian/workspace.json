@@ -16,29 +16,16 @@
               "state": {
                 "file": "HOME.canvas",
                 "viewState": {
-                  "x": 549.5753699881769,
-                  "y": -1115.1030705530773,
-                  "zoom": -0.9999999999999998,
+                  "x": 477.11470642179756,
+                  "y": -1064.980282092351,
+                  "zoom": -0.6666666666666665,
                   "snapToGrid": false
                 }
               },
               "pinned": true
             }
-          },
-          {
-            "id": "df7c40eee0caedd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/TEORIE.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/TEORIE.md",
+                "file": "HOME.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/TEORIE.md",
+                "file": "HOME.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/TEORIE.md"
+                "file": "HOME.canvas"
               }
             }
           }
@@ -181,17 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df7c40eee0caedd6",
+  "active": "9d516b5a6724ad32",
   "lastOpenFiles": [
+    "Geometrie/assets/cerc.png",
+    "Geometrie/assets/puterea_punctului.png",
+    "Geometrie/assets/axa_radicala.png",
+    "Geometrie/temp.md",
+    "Algebra/TEORIE.md",
     "Analiza/TEORIE.md",
     "HOME.canvas",
     "Planner/ArhSis - Asamblor Emulator ARC.md",
     "Planner/Fundamente - Set 3 - Tablouri.md",
-    "Planner/ArhSis - Automat Vanzari.md",
-    "Planner/ArhSis - BigInt.md",
-    "Planner/assets/Scrapbook.png",
-    "Planner/assets/Pasted image 20221216143616.png",
-    "Planner/assets/Home_Banner.png",
-    "Planner/assets/a.jpg"
+    "Planner/ArhSis - Automat Vanzari.md"
   ]
 }
