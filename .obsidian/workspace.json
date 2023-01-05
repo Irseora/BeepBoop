@@ -24,8 +24,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "803c72be72c32d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geometrie/TEORIE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.canvas",
+                "file": "Geometrie/TEORIE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.canvas",
+                "file": "Geometrie/TEORIE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.canvas"
+                "file": "Geometrie/TEORIE.md"
               }
             }
           }
@@ -168,17 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d516b5a6724ad32",
+  "active": "803c72be72c32d6d",
   "lastOpenFiles": [
+    "Geometrie/assets/elipsa.png",
+    "HOME.canvas",
+    "Geometrie/TEORIE.md",
+    "Geometrie/temp.md",
     "Geometrie/assets/cerc.png",
     "Geometrie/assets/puterea_punctului.png",
     "Geometrie/assets/axa_radicala.png",
-    "Geometrie/temp.md",
     "Algebra/TEORIE.md",
     "Analiza/TEORIE.md",
-    "HOME.canvas",
-    "Planner/ArhSis - Asamblor Emulator ARC.md",
-    "Planner/Fundamente - Set 3 - Tablouri.md",
-    "Planner/ArhSis - Automat Vanzari.md"
+    "Planner/ArhSis - Asamblor Emulator ARC.md"
   ]
 }
