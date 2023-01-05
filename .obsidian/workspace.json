@@ -16,9 +16,9 @@
               "state": {
                 "file": "HOME.canvas",
                 "viewState": {
-                  "x": 333.6048091662393,
-                  "y": -1017.1344421253418,
-                  "zoom": -0.6666666666666665,
+                  "x": 549.5753699881769,
+                  "y": -1115.1030705530773,
+                  "zoom": -0.9999999999999998,
                   "snapToGrid": false
                 }
               },
@@ -26,14 +26,19 @@
             }
           },
           {
-            "id": "9c5b4bd1273588b7",
+            "id": "df7c40eee0caedd6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/TEORIE.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.canvas",
+                "file": "Algebra/TEORIE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.canvas",
+                "file": "Algebra/TEORIE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.canvas"
+                "file": "Algebra/TEORIE.md"
               }
             }
           }
@@ -176,17 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d516b5a6724ad32",
+  "active": "df7c40eee0caedd6",
   "lastOpenFiles": [
+    "Analiza/TEORIE.md",
+    "HOME.canvas",
+    "Planner/ArhSis - Asamblor Emulator ARC.md",
+    "Planner/Fundamente - Set 3 - Tablouri.md",
+    "Planner/ArhSis - Automat Vanzari.md",
+    "Planner/ArhSis - BigInt.md",
     "Planner/assets/Scrapbook.png",
     "Planner/assets/Pasted image 20221216143616.png",
     "Planner/assets/Home_Banner.png",
-    "Planner/assets/a.jpg",
-    "ROSPIN/ROSPIN.md",
-    "Logica/LOGICA.md",
-    "HOME.canvas",
-    "Arhitectura Sistemelor de Calcul/ARHSIS.md",
-    "Algebra/0010 - Asociativitate, Distributivitate, Comutativitate.md",
-    "Algebra/ALGEBRA.md"
+    "Planner/assets/a.jpg"
   ]
 }
