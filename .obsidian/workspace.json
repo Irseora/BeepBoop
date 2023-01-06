@@ -16,8 +16,8 @@
               "state": {
                 "file": "HOME.canvas",
                 "viewState": {
-                  "x": 477.11470642179756,
-                  "y": -1064.980282092351,
+                  "x": 404.0613310990979,
+                  "y": -1132.4247439897294,
                   "zoom": -0.6666666666666665,
                   "snapToGrid": false
                 }
@@ -29,16 +29,11 @@
             "id": "803c72be72c32d6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geometrie/TEORIE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometrie/TEORIE.md",
+                "file": "HOME.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometrie/TEORIE.md",
+                "file": "HOME.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geometrie/TEORIE.md"
+                "file": "HOME.canvas"
               }
             }
           }
@@ -181,17 +176,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "803c72be72c32d6d",
+  "active": "9d516b5a6724ad32",
   "lastOpenFiles": [
-    "Geometrie/assets/elipsa.png",
     "HOME.canvas",
+    "Geometrie/assets/cerc.png",
+    "Geometrie/assets/cerc 1.png",
     "Geometrie/TEORIE.md",
     "Geometrie/temp.md",
-    "Geometrie/assets/cerc.png",
-    "Geometrie/assets/puterea_punctului.png",
-    "Geometrie/assets/axa_radicala.png",
-    "Algebra/TEORIE.md",
-    "Analiza/TEORIE.md",
-    "Planner/ArhSis - Asamblor Emulator ARC.md"
+    "Geometrie/assets/axa_radicala 1.png",
+    "Geometrie/assets/cerc_puterea_punctului.png",
+    "Geometrie/assets/dist_punct_dreapta.png",
+    "Pasted image 20230106214728 1.png",
+    "Geometrie/assets/dist_punct_plan.png"
   ]
 }
