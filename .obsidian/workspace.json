@@ -26,14 +26,19 @@
             }
           },
           {
-            "id": "803c72be72c32d6d",
+            "id": "e5597a9bf4fdfbba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Logica/050 - Algebra Boole.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237
+    "width": 200
   },
   "right": {
     "id": "89ed5c2abbe8819b",
@@ -115,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.canvas",
+                "file": "Logica/050 - Algebra Boole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.canvas",
+                "file": "Logica/050 - Algebra Boole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.canvas"
+                "file": "Logica/050 - Algebra Boole.md"
               }
             }
           }
@@ -176,17 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d516b5a6724ad32",
+  "active": "e5597a9bf4fdfbba",
   "lastOpenFiles": [
-    "HOME.canvas",
-    "Geometrie/assets/cerc.png",
-    "Geometrie/assets/cerc 1.png",
-    "Geometrie/TEORIE.md",
-    "Geometrie/temp.md",
-    "Geometrie/assets/axa_radicala 1.png",
-    "Geometrie/assets/cerc_puterea_punctului.png",
-    "Geometrie/assets/dist_punct_dreapta.png",
-    "Pasted image 20230106214728 1.png",
-    "Geometrie/assets/dist_punct_plan.png"
+    "Logica/040 - Latice.md",
+    "Logica/050 - Algebra Boole.md",
+    "Logica/030 - Diagrama Hasse.md",
+    "Logica/020 - Relatii.md",
+    "Logica/010 - Multimi.md",
+    "Logica/00 - Intro/000 - Introducere.md",
+    "Arhitectura Sistemelor de Calcul/15 Dec.md",
+    "Logica/00 - Intro/001 - Legile de Morgan.md",
+    "Logica/REFERAT.md",
+    "Logica/LOGICA.md"
   ]
 }
