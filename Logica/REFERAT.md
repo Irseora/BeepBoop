@@ -22,7 +22,7 @@
 	8. $(F \Rightarrow G) \Rightarrow ((H \Rightarrow G) \Rightarrow (F \lor H \Rightarrow G))$
 	9. $(F \Rightarrow G) \Rightarrow (F \Rightarrow \neg G) \Rightarrow \neg F)$
 	10. $\neg \neg F \Rightarrow F$
-	- $F, H, G = \forall sentential formula$
+- $F, H, G = \forall sentential formula$
 - Rule of inference - Modus Ponens
 	- $\displaystyle \frac{F,F \Rightarrow G}{G}$
 		- if $F$ and $F \Rightarrow G$ are axioms / deduced from axioms through inference, then $G$ is also a formal theorem

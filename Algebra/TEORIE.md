@@ -39,11 +39,7 @@ $\hspace{1.8cm} \mathcal{P}(A) = \{X \ | \ X \subseteq A\} \hspace{1cm} \mathcal
 $\text{Sistem de reprezentanti: familia de elemente } \{a_i \ | \ i \in I\} \subseteq A,$
 $\hspace{5cm} \text{ daca } \forall i,j \in I, \ i \ne j \Rightarrow a_i \ \overline \rho \ a_j \ \text{ si } \ \forall x \in A, \ \exists i \in I \text{ a.i. } \ x \ \rho \ a$
   
-.
-.
-.  
-.
-.
+<div style="page-break-after: always;"></div>
 
 ### Multimi Ordonate. Latici
 $\text{Relatie de ordine: } (R) + (T) + (A) \hspace{1cm} \text{Not.: } (A, \le) \hspace{1cm} \text{Multime ordonata: } A$
@@ -87,8 +83,7 @@ $<X> = \text{subgrupul generat de x (croset)} = \{x_1,x_2,...,x_n \ | \ n \in \m
 $<X> \text{ coincide cu mult. tuturor produselor (finite) de elemente din } X \text{ sau } X^{-1} \hspace{1cm} X^{-1} = \{x^{-1} \ | \ x \in X\}$
 $<X> = \{X ^k \ | \ k \in \mathbb{Z}\} = \{...,x^{-2}, x^{-1}, 0, x, x^2, ...\}$
 
-.
-.
+<div style="page-break-after: always;"></div>
 
 ### Subgrup Ciclic Generat de x
 $<x> = \text{ grupul ciclic generat de x: } \exists x \in G \text{ a.i. } G = <x>$

@@ -26,12 +26,12 @@
             }
           },
           {
-            "id": "e5597a9bf4fdfbba",
+            "id": "81bc0e51516813f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logica/050 - Algebra Boole.md",
+                "file": "Logica/REFERAT.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logica/050 - Algebra Boole.md",
+                "file": "Logica/REFERAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logica/050 - Algebra Boole.md",
+                "file": "Logica/REFERAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logica/050 - Algebra Boole.md"
+                "file": "Logica/REFERAT.md"
               }
             }
           }
@@ -181,17 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5597a9bf4fdfbba",
+  "active": "81bc0e51516813f0",
   "lastOpenFiles": [
-    "Logica/040 - Latice.md",
-    "Logica/050 - Algebra Boole.md",
-    "Logica/030 - Diagrama Hasse.md",
-    "Logica/020 - Relatii.md",
-    "Logica/010 - Multimi.md",
-    "Logica/00 - Intro/000 - Introducere.md",
-    "Arhitectura Sistemelor de Calcul/15 Dec.md",
-    "Logica/00 - Intro/001 - Legile de Morgan.md",
-    "Logica/REFERAT.md",
-    "Logica/LOGICA.md"
+    "HOME.canvas",
+    "Psihologie/Educatia Dincolo de Pedeapsa si Recompensa.md",
+    "Algebra/TEORIE.md",
+    "Geometrie/TEORIE.md",
+    "Algebra/0010 - Asociativitate, Distributivitate, Comutativitate.md",
+    "Algebra/0020 - Injectivitate, Surjectivitate, Bijectivitate.md",
+    "Algebra/0100 - Multimi, Relatii, Functii.md",
+    "Algebra/0110 - Relatii Binare.md",
+    "Algebra/0111 - Reflexiv, Tranzitiv, Simetric, Antisimetric.md",
+    "Algebra/0120 - Relatii Functionale.md"
   ]
 }

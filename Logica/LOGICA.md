@@ -9,3 +9,7 @@
 2. [[020 - Relatii]]
 3. [[030 - Diagrama Hasse]]
 4. [[040 - Latice]]
+5. [[050 - Algebra Boole]]
+	1. [[051 - Morfism Boole]]
+	2. [[052 - Inel Boolean]]
+	3. [[053 - Filtre si Ideale]]
