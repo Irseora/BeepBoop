@@ -41,12 +41,14 @@
 ---
 
 ### Algebra Lindenbaum - Tarski
+- 
 
 ---
 
 ###### Sources
 - Wolfram Alpha (Mathworld)
 - Matematica: Manual pentru clasa a IX-a: Trunchi comun + curriculum diferentiat
+- Course Notes
 
 ---
 
