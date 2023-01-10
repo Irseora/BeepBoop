@@ -58,4 +58,34 @@
 	- ex: $F \Rightarrow F \lor G$
 		- $A \Rightarrow A \lor B, \ \ A \Rightarrow A \lor A, \ \ \neg A \Rightarrow \neg A \lor B$
 		- $(A \Rightarrow B) \Rightarrow (A \Rightarrow B) \lor (D \land E)$
-- 
+
+---
+
+### 1. Calculul propozitiilor (prezentare neformalizata)
+#### 1.1. Propozitiile
+Enunt, univers, subiect, predicat, propozitii (initiale/primitive $P_0$, compuse)
+Conectori logici/propozitionali: $\neg, \lor, \land, \rightarrow, \leftrightarrow$
+#### 1.2. Valoarea de adevar a unei propozitii
+Functia de adevar/evaluare: $v_0 : P_0 \rightarrow \{0,1\}, \ \ v_0(p) = \begin{cases} 1, & p \ adevarat \\ 0, & p \ fals \end{cases}$
+Tautologie, antilogie, ~, principiul generalizarii
+**Axiome ale sistemului formal al calculului propozitiilor**
+Limba, vocabular ($P_0$, conectori logici, paranteze), gramatica (R1-R3), totalitatea frazelor posibile ($P$)
+Meta-limbaj, meta-meta-limbaj
+
+### 2. Calculul predicatelor (prezentare neformalizata)
+#### 2.1. Predicatele
+Predicat, variabila libera
+Mult. de obiecte/domeniul unui predicat, predicat partial, prop. complexe
+Cuantificatori: $\exists, \forall$
+Conventii de scriere
+#### 2.2. Valoarea de adevar a unui predicat
+Adevarat/fals/ambivalent
+Lege logica, tautologie, tautologie cuantificata
+
+### 3. Latici
+#### 3.1. Multimi (pre)ordonate
+Relatii de ordine (partiala)
+Multime (partial) ordonata, multime total ordonata/liniara/lant, multime preordonata
+##### 3.1.1. Principiul dualitatii. Diagrama Hasse
+##### 3.1.2 Reprezentarea unei relatii binare pre o multime finita prin matrice booleana
+##### 3.1.3. Prim (ultim) element, minorant (majorant), infimum (supremum). Axioma lui Zorn
